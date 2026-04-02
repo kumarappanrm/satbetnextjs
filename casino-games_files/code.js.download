@@ -1,0 +1,38 @@
+window.wewo=window.wewo||[]; var t = window.wewo;
+var rtgUrl="https://rtg.wewomedia.com/tr",rtgSendData=(t,e,a)=>{var n=window.XMLHttpRequest;if(!n)return!1;var w=new n;w.open("POST",t,!0),w.setRequestHeader("Content-Type","application/json"),w.onreadystatechange=()=>{XMLHttpRequest.DONE==w.readyState&&(a(),w=null)},w.send(e)};
+t.push = function(e) { Array.prototype.push.call(t, e); var rtgCollectData = () => { var a = {}; return a.data = t, JSON.stringify(a) }; rtgSendData(rtgUrl, rtgCollectData(), (() => { }));}
+var appendTag=e=>{if(e){var n=document.createRange();n.selectNode(document.getElementsByTagName("body")[0]);var i=n.createContextualFragment(e);document.body.appendChild(i)}};
+function appendTrackingPixel(fp){ let url = "https://rtg.wewomedia.com/tr/px.png?"
+  url += ("fp=" + encodeURIComponent(fp));
+  url += ("&r=" + encodeURIComponent(window.location.toString()));
+  appendTag("<img width=\"1\" height=\"1\"   src=" + url + " alt=\"\" style=\"border-style:none;float:left;\">");
+}
+
+(function(){
+  var prefix = "rtg_";
+  var signedUid = "";
+  var signedDec = "";
+  var userId = "50ed905e-17e0-4cb6-b8d3-1d2d7a7c6489";
+
+  // Store signed state in localStorage for first-party persistence
+  try {
+    if (signedUid && signedUid !== "") {
+      localStorage.setItem(prefix + "uid", signedUid);
+    }
+    if (signedDec && signedDec !== "") {
+      localStorage.setItem(prefix + "dec", signedDec);
+    }
+  } catch(e) {}
+
+  // Push user event to data layer
+  if (typeof ThumbmarkJS == "object") {
+    ThumbmarkJS.getFingerprint(false, {"country": "IN", "city": "Chennai"}).then(function (e) {
+      t.push({ event: "user", uxid: e });
+      if (typeof appendTrackingPixel == "function") {
+        appendTrackingPixel(e);
+      }
+    });
+  } else {
+    t.push({ event: "user", uxid: userId });
+  }
+})();

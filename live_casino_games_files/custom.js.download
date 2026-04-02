@@ -1,0 +1,451 @@
+$(document).ready(function(){
+	"use strict";
+ 
+	/*
+	==============================================================
+	 Back to Top  Script Start
+	==============================================================
+	*/
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 400) {
+		  	$('.go-up').fadeIn();
+		} else {
+		  	$('.go-up').fadeOut();
+		}
+	});
+	$('.go-up').on('click', function () {
+		$("html, body").animate({
+		  scrollTop: 0
+		}, 600);
+		return false;
+	});
+
+  /*
+    =======================================================================
+         Tool Tip Script Script
+    =======================================================================
+  */
+  
+    $('[data-toggle="tooltip"]').tooltip();
+
+ 
+    
+    /*
+    ============================================================== 
+        DL Responsive Menu
+    ============================================================== 
+    */
+    if(typeof($.fn.dlmenu) == 'function'){
+      $('#sat-responsive-navigation').each(function(){
+        $(this).find('.dl-submenu').each(function(){
+        if( $(this).siblings('a').attr('href') && $(this).siblings('a').attr('href') != '#' ){
+          var parent_nav = $('<li class="menu-item sat-parent-menu"></li>');
+          parent_nav.append($(this).siblings('a').clone());
+          
+          $(this).prepend(parent_nav);
+        }
+        });
+        $(this).dlmenu();
+      });
+    }
+	
+	
+	$('.main-slider').infiniteslide({
+			pauseonhover: false,
+			responsive: true
+		});
+		
+		
+	 /*
+    ============================================================== 
+        Change pwd 
+    ============================================================== 
+    */	
+  $('#change_pwd').modal('show').unbind( "click");
+  
+	$(".number_only").on("input keyup", function() {
+    this.value = this.value.replace(/\D/g, '');
+  });
+ }); 
+
+   /*
+    ============================================================== 
+        eye pwd 
+    ============================================================== 
+    */	
+	
+ $(document).ready(function(){
+$(".submenu_list li").click(function(){
+  $(".submenu_list li").removeClass("active");
+  $(this).addClass("active");
+  $(".submenu_list").scrollCenter(".active", 1500);
+});
+
+jQuery.fn.scrollCenter = function(elem, speed) {
+
+  var _defaultLeft = $(".submenu_list").position().left;
+  var active = $(".submenu_list").find(elem); 
+  var activeWidth = active.outerWidth() / 2; 
+  var pos = (active.position().left) + activeWidth;
+  var elpos = $(".submenu_list").scrollLeft();
+  var elW = $(".submenu_list").outerWidth();
+  pos = pos + elpos - elW / 2; 
+$(".submenu_list").animate({
+   scrollLeft: pos
+ },0, 'linear');
+ return this;
+};
+});	
+	
+$(document).on('click', '.toggle-password-login', function() {
+
+  $(this).toggleClass("fa-eye fa-eye-slash");
+  
+  var input = $("#user-password");
+  input.attr('type') === 'password' ? input.attr('type','text') : input.attr('type','password')
+});  
+
+$(document).on('click', '.toggle-password-reg', function() {
+
+  $(this).toggleClass("fa-eye fa-eye-slash");
+  
+  var input = $("#password");
+  input.attr('type') === 'password' ? input.attr('type','text') : input.attr('type','password')
+});
+
+$(document).on('click', '.toggle-password-confirm', function() {
+
+  $(this).toggleClass("fa-eye fa-eye-slash");
+  
+  var input = $("#c_password");
+  input.attr('type') === 'password' ? input.attr('type','text') : input.attr('type','password')
+});
+
+$(document).on('click', '.toggle-password-current', function() {
+
+  $(this).toggleClass("fa-eye fa-eye-slash");
+  
+  var input = $("#user-password-current");
+  input.attr('type') === 'password' ? input.attr('type','text') : input.attr('type','password')
+});
+
+$(document).on('click', '.toggle-password-new', function() {
+
+  $(this).toggleClass("fa-eye fa-eye-slash");
+  
+  var input = $("#user-password-new");
+  input.attr('type') === 'password' ? input.attr('type','text') : input.attr('type','password')
+});
+
+$(document).on('click', '.toggle-password-newc', function() {
+
+  $(this).toggleClass("fa-eye fa-eye-slash");
+  
+  var input = $("#user-password-newc");
+  input.attr('type') === 'password' ? input.attr('type','text') : input.attr('type','password')
+});
+
+// $(document).ready(function() {
+//     $('#table_col').DataTable( {
+//         "scrollX": true
+//     } );
+// 	$(".mob_gamesearch").click(function(){$(".gamesearch").toggleClass("show")})
+// } );
+
+
+ //called when key is pressed in textbox
+  $(".number_only").keypress(function (e) {
+     //if the letter is not digit then display error and don't type anything
+     if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+        //display error message
+       return false;
+    }
+   });
+
+   $('.block_shortcut').bind('cut copy paste', function (e) {
+         e.preventDefault(); //disable cut,copy,paste
+      }); 
+	  
+
+      $(document).ready(function () {
+        $('.uploadfile').on('change', function () {
+            const file = this.files[0];
+            const imgPreview = $(this).siblings('img');
+            const oldSrc = imgPreview.attr('data-old');
+            const maxFileSize = parseInt($(this).attr('maxlength'), 10);
+            const inputBox = $(this).parent();
+            // Check if a file is selected
+            if (!file) {
+                 $(this).val(''); // Reset the file input
+                imgPreview.attr('src', oldSrc); // Revert to the previous image
+                swal.fire("No file selected.");
+                triggerAlert(inputBox);
+                return;
+            }
+    
+            // Validate file type
+            if (!file.name.match(/\.(png|jpg|jpeg)$/)) {
+            swal.fire("Invalid file format. Please upload a JPEG, JPG, or PNG image.");
+            $(this).val(''); // Reset the file input
+            imgPreview.attr('src', oldSrc); // Revert to the previous image
+            triggerAlert(inputBox);
+            return;
+            }
+            // Validate file size
+            if (maxFileSize && file.size > maxFileSize) {
+                swal.fire("File size exceeds the 2 MB limit. Please upload a smaller file.");
+                $(this).val(''); // Reset the file input
+                imgPreview.attr('src', oldSrc); // Revert to the previous image
+                triggerAlert(inputBox);
+                return;
+            }
+    
+            // Display the selected image
+            const reader = new FileReader();
+            reader.onload = function (e) { imgPreview.attr('src', e.target.result);};
+            reader.readAsDataURL(file);
+    
+        });
+        $('.upload_file_btn').on('click', function () {
+            $(this).siblings('input.uploadfile').click();
+        });
+    
+        $('.transfer_details_content .copy_button').click(function () {
+              var $this = $(this);
+              $this.attr('data-tooltip', 'copied!');
+              $this.attr('data-tooltip-active', 'true');
+              setTimeout(function() {
+                  $this.attr('data-tooltip-active', 'false');
+              }, 1500);
+        });
+    });
+
+$(document).ready(function () {
+var swiperContainer = document.querySelector('.swiper-container.buychips');
+var slidesCount = (swiperContainer != null) ? swiperContainer.querySelectorAll('.swiper-slide').length : 0;	
+if ($('.swiper-container.buychips').length) {
+	var swiper = new Swiper('.swiper-container.buychips', {
+      grabCursor: true,
+      centeredSlides: slidesCount <= 2,
+	  infinite: slidesCount >= 2,
+	  loop: slidesCount >= 2,
+      slidesPerView: '2',
+      spaceBetween: 17,
+	  navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+	  autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+      breakpoints: {
+        640: {
+          slidesPerView: 1,
+        },
+        767: {
+          slidesPerView: 1,
+        },
+        1024: {
+          slidesPerView: 1,
+        },
+      }
+    });
+  }
+	if (slidesCount < 2) {
+  $(".swiper-button-prev").hide();
+  $(".swiper-button-next").hide();
+}
+  $('.deposit-pad-mob a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+    // Get the target tab's ID
+    var tabId = $(e.target).attr('href');
+    // Find the Swiper container within the target tab
+    var swiperContainer = $(tabId).find('.swiper-container');
+
+    // Initialize Swiper if not already initialized
+    if (!swiperContainer.hasClass('swiper-initialized') && $('.swiper-container.buychips').length) {
+      var swiper = new Swiper('.swiper-container.buychips', {
+      grabCursor: true,
+      centeredSlides: slidesCount <= 2,
+	  infinite: slidesCount >= 2,
+	  loop: slidesCount >= 2,
+      slidesPerView: '2',
+      spaceBetween: 17,
+	  navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+	  autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+      breakpoints: {
+        640: {
+          slidesPerView: 1,
+        },
+        767: {
+          slidesPerView: 1,
+        },
+        1024: {
+          slidesPerView: 1,
+        },
+      }
+	  
+	  
+	  
+    });
+	
+	if (slidesCount < 2) {
+  $(".swiper-button-prev").hide();
+  $(".swiper-button-next").hide();
+}
+
+      // Mark the Swiper container as initialized
+      swiperContainer.addClass('swiper-initialized');
+    }
+  });
+
+  $('.deposit-pad-mob a[data-toggle="tab"]').on('hide.bs.tab', function (e) {
+    // Get the target tab's ID
+    var tabId = $(e.target).attr('href');
+    // Find the Swiper container within the target tab
+    var swiperContainer = $(tabId).find('.swiper-container');
+
+    // Destroy Swiper if it was initialized
+    if (swiperContainer.hasClass('swiper-initialized')) {
+      swiperContainer.removeClass('swiper-initialized');
+      swiperContainer[0].swiper.destroy();
+    }
+  });
+  
+});
+
+	
+	 
+	
+if ($('.main-banner-static').length) {
+	var swiper1 = new Swiper('.main-banner-static', {
+    loop: true,
+	 autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true
+    },
+});
+}
+/*$('.mob_gamesearch').click(function(){
+  $('.gamesearch').toggleClass('show')
+  })*/
+
+$(document).ready(function () {
+  
+  const step = 1;
+
+function validateInput(value) {
+    return Math.max(0, parseInt(String(value).replace(/[^0-9]/g, ''), 10) || 0);
+}
+
+function updateInputField(input, value) {
+  if(value >0){ input.val(value); }
+
+    if (window.location.pathname.includes('/deposit')) {
+        $('#bank_amount').val(value);
+    }
+    var deposit_amt = input.val();
+    var promoMinAmt = parseFloat(
+        input.closest('.text_wrper').find('input[name="promo_code"]').attr('data-min-amt') ||
+        input.closest('.text_wrper').find('input[name="razopay_promo"]').attr('data-min-amt')
+    ) || 0; 
+   
+    var depstAmt = parseFloat(deposit_amt) || 0; // Convert to number
+    var promoAmt = parseFloat(promoMinAmt) || 0; // Convert to number
+    check_depositpromo_limit(depstAmt , promoAmt,input.attr('id'));
+}
+
+$(document).on('click', '#deposit-amount-minus', function () {
+    const input = $(this).siblings('input.deposit_field');
+    updateInputField(input, validateInput(input.val()) - step);
+});
+
+$(document).on('click', '#deposit-amount-plus', function () {
+    const input = $(this).siblings('input.deposit_field');
+    updateInputField(input, validateInput(input.val()) + step);
+});
+
+$(document).on('input', '.deposit_field', function () {
+    $(this).val(validateInput($(this).val()));
+});
+
+function check_depositpromo_limit(depstAmt, promoAmt,inputid) {
+  if (depstAmt > 0 && promoAmt > 0) {
+    if (depstAmt < promoAmt) {
+      $("#"+inputid+"-error")
+            .html('Enter at least ' + promoAmt + ' to apply the promo.')
+            .css('display', 'block');
+    } else {
+      $("#"+inputid+"-error").css('display', 'none');
+    }
+} else {
+  $("#"+inputid+"-error").css('display', 'none');
+}
+
+}
+
+  // File upload
+  $('#uploadfiles_trigger').on('click', function () {
+    $('#uploadfiles_right_input').click();
+  });
+
+  // Handle file selection
+  $('#uploadfiles_right_input').on('change', function () {
+    const file = this.files[0];
+    const errorText = $('.errortext');
+
+    if (file) {
+      alert('File uploaded successfully: ' + file.name);
+    }
+  });
+});
+
+$(document).ready(function () {
+  // var swiper = new Swiper('.deposit_promotion_slider', {
+  //   navigation: {
+  //     nextEl: '.swiper-button-next',
+  //     prevEl: '.swiper-button-prev',
+  //   },
+  //   slidesPerView: 2.5,
+  //   spaceBetween: 10,
+  //   // loop: true,
+  //   breakpoints: {
+  //     640: { slidesPerView: 1 },
+  //     767: { slidesPerView: 1 },
+  //     1200: { slidesPerView: 2 },
+  //   },
+  // });
+
+//   $('.deposit_promotion_slider').each(function () {
+//       var swiper = new Swiper(this, {
+//     navigation: {
+//       nextEl: $(this).find(".swiper-button-next")[0],
+//       prevEl: $(this).find(".swiper-button-prev")[0],
+//     },
+//     slidesPerView: 2.5,
+//     spaceBetween: 10,
+//     breakpoints: {
+//       640: { slidesPerView: 1 },
+//       767: { slidesPerView: 1 },
+//       1200: { slidesPerView: 2 },
+//     },
+//   });
+// });
+
+});
+
+function triggerAlert(inputBox) {
+            inputBox.addClass('shake');
+            setTimeout(() => { inputBox.removeClass('shake');}, 5000);
+}
+

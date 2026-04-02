@@ -1,0 +1,12 @@
+node_modules
+
+# Next.js / local
+.next/
+out/
+*.tsbuildinfo
+.env.local
+
+# Regenerate with: npm run catalog:build
+public/tmp-raw-games.json
+tmp-extract-err.txt
+tmp-games-array.json

@@ -1,0 +1,32 @@
+{
+  "name": "satbet-nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "bundle:vendor-css": "node scripts/bundle-vendor-css.cjs",
+    "dev": "npm run bundle:vendor-css && next dev",
+    "build": "npm run bundle:vendor-css && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "catalog:extract": "node scripts/extract-casino-games-from-html.cjs public/tmp-raw-games.json",
+    "catalog:compose": "node scripts/compose-casino-catalog.cjs",
+    "catalog:build": "npm run catalog:extract && npm run catalog:compose",
+    "catalog:live": "node scripts/build-live-casino-catalog.mjs"
+  },
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "clean-css": "^5.3.3",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.0",
+    "typescript": "^5.4.0"
+  }
+}

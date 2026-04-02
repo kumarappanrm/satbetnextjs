@@ -1,0 +1,1 @@
+(function(){try{var k='_tkoflbl',t=localStorage.getItem(k);if(!t){var n=Date.now().toString();try{localStorage.setItem(k,n)}catch(e){document.cookie=k+'='+n+';expires='+new Date(parseInt(n)+31536e6).toUTCString()+';path=/'}}}catch(e){}})();

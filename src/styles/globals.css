@@ -1,0 +1,240 @@
+/* 
+  Global CSS for Next.js wrapper.
+  The main UI styles are loaded from `/public/assets/*.css` (synced from `satbet html/assets`).
+ */
+
+@import './transitions.css';
+
+@import './modal-transitions.css';
+
+/* Reset for Next.js Image component compatibility */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Password eye icon - replicate CI inline behavior */
+.password_eye {
+  cursor: pointer;
+  z-index: 10;
+}
+
+/* Need-help button inline style */
+.need-help {
+  background: #ffffff;
+  color: #28a745;
+  font-weight: bold;
+  font-size: var(--fontsize_12, 12px);
+  border: none;
+  padding: 0;
+}
+.need-help:hover {
+  color: #ffab06;
+}
+.need-help a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Sendotp / verifyOTP inline button from CI signup */
+button.sendotp,
+button.otpVerification {
+  position: absolute;
+  top: 8px;
+  right: 6px;
+  border-radius: 8px;
+  padding: 3px 9px;
+  color: #10375c;
+  font-weight: 600;
+  font-size: 12px;
+  background: linear-gradient(167deg, #fcd35f, #fcd35f, #d8a727);
+  border: none;
+}
+
+button.otpVerification {
+  color: #fff;
+  background: #00cd4c;
+}
+
+.timer_otp {
+  display: flex !important;
+  justify-content: center;
+  align-items: center !important;
+  gap: 0px !important;
+  position: absolute;
+  top: 9px;
+  right: 70px;
+}
+
+.timer_otp p {
+  margin-bottom: 0;
+  color: #10375c;
+  font-weight: 600;
+  margin-left: 6px;
+}
+
+/* One-click modal styles */
+.onhead {
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 25.5px;
+  text-align: center;
+  color: black;
+}
+
+/* Legacy `satbet html/index.html` inline overrides (ported to Next.js) */
+.footer_payment_images {
+  align-items: center;
+}
+
+.game_overlay_main .game-name {
+  line-height: 1;
+  transform: translate(0, 10%);
+}
+
+a.navbar-brand img {
+  height: auto;
+}
+
+li.nav-item p {
+  font-size: 12px !important;
+}
+
+/* Mobile slide-down menu: same active chip + comfortable tap height */
+@media (max-width: 767px) {
+  .navbar_sec .nav-mob-align .nav-item .nav-link {
+    display: flex;
+    align-items: center;
+    min-height: 48px;
+    padding: 10px 14px !important;
+    border-radius: 10px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  .navbar_sec .nav-mob-align .nav-link.active {
+    background: #f3f0da !important;
+    box-shadow: inset 0 0 0 1.5px #10375c;
+    color: #10375c !important;
+  }
+
+  .navbar_sec .nav-mob-align .nav-link.active .nav_menus p {
+    color: #10375c !important;
+    font-weight: 600;
+  }
+}
+
+.header_wallet {
+  background: linear-gradient(180deg, #e9ce75 0%, #d4992b 100%);
+  color: rgba(16, 55, 92, 1);
+  font-weight: var(--semibold_fontweight);
+  border-radius: var(--fontsize_12);
+  font-size: 13px;
+  white-space: nowrap;
+  padding: 8px 10px;
+}
+
+#siteUrl_footer {
+  color: #3c3c3c;
+  font-size: 12px;
+}
+
+/* Club loyalty: prevent stretched card height (matches legacy) */
+.swiper-slide.club_loyalty_slider_img {
+  align-items: flex-start;
+}
+
+.btn_grp_dskt {
+  display: flex;
+  gap: 5px;
+}
+
+.btn_grp_dskt button.btn.signup_btn {
+  margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .footer_fontsize.footer_fontsize_mob_align.footer_fontsize_mob_align1 {
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  a.navbar-brand {
+    margin-right: 10px;
+  }
+
+  a.navbar-brand img {
+    width: 90px;
+  }
+
+  li.nav-item p {
+    font-size: 13px !important;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .navbar-brand img {
+    width: 57px !important;
+  }
+
+  .btn_grp_dskt button.btn {
+    font-size: 12px !important;
+  }
+}
+
+/* Externalized from inline styles (layout / footer) */
+.gtm-noscript-iframe {
+  display: none;
+  visibility: hidden;
+}
+
+.u-hidden {
+  display: none !important;
+}
+
+.custom-nav-link.custom-link-home {
+  color: #075e54;
+}
+
+.custom-nav-link.custom-link-casino {
+  color: #964d4d;
+}
+
+.custom-nav-link.custom-link-sports {
+  color: #4b5da1;
+}
+
+.custom-nav-link.custom-link-menu {
+  color: #4a80f5;
+}
+
+/* Sprite/footer images: block sizing without inline display */
+.sprite-ib {
+  display: inline-block;
+  box-sizing: content-box;
+}
+
+.sprite-pay {
+  display: inline-block;
+  width: 94px;
+  height: 34px;
+}
+
+.sprite-footer-logo {
+  display: inline-block;
+  width: 200px;
+  height: 64px;
+}
+
+.sprite-sm {
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+}
+
+.top-sport-thumb {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 198 / 279;
+}

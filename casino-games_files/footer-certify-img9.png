@@ -1,0 +1,3368 @@
+
+      
+
+<style>
+      /* demo button starts  */
+ 
+ 
+   .login-reg-section.prelogin-reg-sec {
+    display: flex;
+    gap: 5px;
+}
+ 
+.login-reg-section.prelogin-reg-sec .header_signup_btn {
+  margin: 0 !important;
+}
+ 
+button#demoUserLogin {
+    margin: 0 !important;
+}
+
+.login-reg-section.prelogin-reg-sec button, .login-reg-section.prelogin-reg-sec a, .login-reg-section.prelogin-reg-sec .header_signup_btn {
+    font-size: 12px !important;
+    padding: 7px 12px;
+}
+
+.menu_section_main22 .nav a {
+      font-size: 13px !important;
+}
+ 
+    @media screen and (max-width: 430px) {
+       
+        a.navbar-brand {
+            margin-right: 10px;
+        }
+ 
+    }
+ 
+    @media screen and (max-width: 376px) {
+        .logo-main {
+            width: 95px !important;
+        }
+ 
+ 
+    }
+ 
+    /* demo button ends  */
+ 
+</style>
+
+
+
+
+         <!DOCTYPE html>
+<html lang="en">
+   <head>
+
+    <title>Satbet | Home</title>
+
+<meta charset="utf-8">
+<meta name="keywords" content="Satbet, Satbet,Assets,Satbet - Assets">
+<meta name="language" content="english">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Access-Control-Allow-Origin" content="*" />
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+<meta name="google-site-verification" content="VQspGpf_OaU9Kvai7Lt2lERm4zDz2UY-bQhF2AYw0xs" />
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TM9BSSML');</script>
+<!-- End Google Tag Manager -->
+    
+
+
+
+<link rel="canonical" href="https://devenubuntu.satbet.com/assets/images/footer-certify/footer-certify-img9.png">
+
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="googlebot" content="noindex">
+    <meta name="googlebot-news" content="nosnippet">
+
+    <meta property="og:url" content="https://devenubuntu.satbet.com/">
+    <meta property="og:title" content="Satbet | Throw the Dice THRICE &amp; Claim INR 3500 Welcome Bonus">
+    <meta name="description" content="Sign up Today and get an amazing bonus of 100% up to 10000 INR on your First deposit. Play with over +5000 casino games using your favorite device">
+    <meta property="og:description" content="Sign up Today and get an amazing bonus of 100% up to 10000 INR on your First deposit. Play with over +5000 casino games using your favorite device">
+    <meta property="og:site_name" content="Satbet">
+
+<style>
+html { visibility:hidden; }
+</style>
+<script src="https://qaasset.satbet.com/js/jquery.min.js" > </script>  
+<script>
+$(document).ready(function() {
+  document.getElementsByTagName("html")[0].style.visibility = "visible";
+  var lastUrl  = 'assets';
+if(lastUrl == 'signup'){
+//     $('#signup').css("display","block!important");
+//     $('#signup').modal("show");
+}
+});
+</script>
+<link rel="stylesheet" href="https://qaasset.satbet.com/css/font-awesome.css?v=12.0.2">
+
+
+<link rel="stylesheet" href="https://qaasset.satbet.com/css/datatable.css?v=12.0.2">
+
+<link rel="stylesheet" href="https://qaasset.satbet.com/css/all-minify.css?v=12.0.2">
+<link rel="icon" type="image" href="https://qaasset.satbet.com/images/favicon.png"> 
+
+<!-- Sweetalert CSS & Js-->
+<link rel="stylesheet" href="https://qaasset.satbet.com/css/sweetalert2.min.css?v=12.0.2">
+<script src="https://qaasset.satbet.com/js/sweetalert2.all.min.js?v=12.0.2" > </script>  
+
+
+   </head>
+   <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TM9BSSML"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<div class="sat_wrapper"> 
+<div class="header_sec_main"> 
+<div class="header_sec_main_flex22">
+<!--prelogin navbar starts-->
+<style>
+   .usr_ttle_msgnotify_div .header_notify {
+    display: none;
+}
+
+@media screen and (max-width:575px) {
+.navdd_userdetails_content .usr_ttle_msgnotify_div {
+    display: flex;
+    align-items: center;
+}
+.usr_ttle_msgnotify_div .header_notify {
+    margin-left: 15px;
+    display: flex;
+    margin-top:-5px;
+}
+.usr_ttle_msgnotify_div .header_notify .msg_count_no1 {
+    background: #f8f8f8;
+}
+}
+</style>
+<div class="top-header-1">
+<div class="container-fluid">
+  <div class="header-inner-section">
+    <div class="header-inner-left-div">
+      <div class="logo-main">
+        <a href="https://devenubuntu.satbet.com/">
+                        <img src="https://qaasset.satbet.com/images/Satbet-logo.png" alt="logo" alt="logo">
+        </a>
+      </div>
+      <div class="header-menu-div">
+  <div class="menu_section_main22">
+                  <ul class="nav mainmenu_nav1">
+                   
+                                     <li class=""><a href="https://devenubuntu.satbet.com/exchange"><img class="sports-icon" src="https://qaasset.satbet.com/images/exchange.gif"/>Exchange</a></li>
+                  
+
+                  
+
+                  <li class=""><a href="https://devenubuntu.satbet.com/sportsbook"><img class="sports-icon" src="https://qaasset.satbet.com/images/sports.gif"/>Sports</a></li>
+                  <li class=" "><a href="https://devenubuntu.satbet.com/casino-games"><img class="sports-icon" src="https://qaasset.satbet.com/images/casino.gif"/>Casino</a></li>
+                  <li class=" "><a href="https://devenubuntu.satbet.com/live-casino-games"><img class="sports-icon" src="https://qaasset.satbet.com/images/live.gif"/>Live Casino</a></li>
+                  <li class=""><a href="https://devenubuntu.satbet.com/promotions"><img class="sports-icon" src="https://qaasset.satbet.com/images/promo.gif"/>Promotions</a></li>
+                  </ul>                         
+  </div>    
+  </div>
+
+    </div>
+        <div class="header-inner-right-div">
+    <div class="header-cta-div">
+
+    <div class="login-reg-section prelogin-reg-sec">
+      <a href="#" id="demoUserLogin" class="header_signup_btn">Demo</a>
+      <a href="#" data-toggle="modal" id="loginbutton" class="header_login_btn" data-target="#Login">Login</a>
+      <a href="#" data-toggle="modal" class="header_signup_btn" id="signbtn" data-target="#Login">Register</a>
+    </div>
+    </div>  
+    </div>
+        
+
+    <!--Postlogin-->
+    
+
+  </div>
+</div>
+</div>
+
+<!--navbar ends-->
+
+<!-- menu for mobile ends-->
+
+<div class="header-menu-div mobile-header-menu-section">
+    <div class="menu_section_main22">
+        <ul class="nav mainmenu_nav1">
+                        <li class="">
+                <a href="https://devenubuntu.satbet.com/exchange"><img class="sports-icon" src="https://qaasset.satbet.com/images/exchange.gif" />Exchange</a>
+            </li>
+            
+                        <li class="">
+                <a href="https://devenubuntu.satbet.com/sportsbook"><img class="sports-icon" src="https://qaasset.satbet.com/images/sports.gif" />Sports</a>
+            </li>
+            <li class=" ">
+                <a href="https://devenubuntu.satbet.com/casino-games"><img class="sports-icon" src="https://qaasset.satbet.com/images/casino.gif" />Casino</a>
+            </li>
+            <li class=" ">
+                <a href="https://devenubuntu.satbet.com/live-casino-games"><img class="sports-icon" src="https://qaasset.satbet.com/images/live.gif" />Live Casino</a>
+            </li>
+            <li class="">
+                <a href="https://devenubuntu.satbet.com/promotions"><img class="sports-icon" src="https://qaasset.satbet.com/images/promo.gif" />Promotions</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+<!--menu for mobile ends-->
+  
+
+   
+    <script>
+        // $(document).ready(function () {
+        //     $(".userdtls_hdr22").click(function () {
+        //         $(this).toggleClass("open");
+        //         $(".userdtls_hdr22_dropdown").toggleClass("show");
+        //     });
+        // });
+
+$(document).on("click", ".exchange_2_nav_link", function () {
+    		if (sessionStorage.getItem("lastPage")) {
+        	var lastPage = sessionStorage.getItem("lastPage");
+        	sessionStorage.removeItem("lastPage");
+    		}
+	});
+    </script>
+</div>
+</div>  
+
+<div class="modal fade" id="pop_message_show" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content login-div">
+	<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+      <div class="popup-content">
+	  
+<p class="popup-head pop_message_show_head">Logout Success!</p>
+<p class="popup-text pop_message_show_text">You have been successfully logged out.</p>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+		
+	
+  <script>
+          var csrfName = 'csrf_token',
+          csrfHash = 'e11ab7d502a4a9903db930e605f9a443';
+  
+  </script>
+
+<script>
+  
+</script>
+
+<div class="modal fade" id="header_error_div1" tabindex="-1" role="dialog" aria-labelledby="Login" style="display: none;">
+  <div class="modal-dialog" role="document">
+    <div class="login-div">
+      <div class="close" data-dismiss="modal" aria-label="Close"><img src="https://qaasset.satbet.com/images/close_btn.png" alt="close_btn"></div>
+      <div class="login-head header_error_msg"></div>
+      <div class=""></div>
+    </div>
+  </div>
+</div>
+
+
+   <script type="text/javascript">
+$(document).ready(function(){
+  var register_verified = "";
+  if(register_verified == 'register_verified'){
+    Swal.fire({
+            title: "Email verified",
+            text: "Your Email has been verified Successfully!!"
+        });
+    setTimeout(() => {swal.close();}, 3000);
+
+     }
+
+  var register_success = "";
+  if(register_success == 'register_success'){
+
+     
+      }
+
+})
+</script>
+
+<!-- Modal -->
+  <div class="body-loader" style="display:none;"><div class="loader" id="loader-2">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div></div>
+
+     <div class="modal fade" id="logout_popup" tabindex="-1" role="dialog" aria-labelledby="Login">
+        <div class="modal-dialog" role="document">
+            <div class="login-div">
+      <div class="close" data-dismiss="modal" aria-label="Close"><img src="https://qaasset.satbet.com/images/close_btn.png" alt=""></div>
+      <div class="login-head">Logout Success!</div>
+      <div class="rebem-me">You have been successfully logged out.</div>
+
+      
+      <!-- <div class="login-btn"><span>Ok</span></div> -->
+      </div>
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="register_active" tabindex="-1" role="dialog" aria-labelledby="Login">
+        <div class="modal-dialog" role="document">
+            <div class="login-div">
+      <div class="close" data-dismiss="modal" aria-label="Close"><img src="https://qaasset.satbet.com/images/close_btn.png" alt=""></div>
+      <div class="login-head">Email verified</div>
+      <div class="rebem-me">Your Email has been verified Successfully!!</div>
+
+      
+      <!-- <div class="login-btn"><span>Ok</span></div> -->
+      </div>
+        </div>
+    </div>
+
+<script>
+$(document).ready(function(){
+  
+  var logout = "";
+  var anotherlogout = "";
+  if(logout == 'logout'){
+    $('#logout_popup').modal('show');
+    setTimeout(() => {
+      $('#logout_popup').modal('hide');
+    }, 3000);
+      }
+
+  if(anotherlogout == 'anotherlogin'){
+     $('#anotherlogin_popup').modal('show');
+    setTimeout(() => {
+      $('#anotherlogin_popup').modal('hide');
+    }, 3000);
+     }
+
+  var register_verified = "";
+  if(register_verified == 'register_verified'){
+    $('#register_active').modal('show');
+    setTimeout(() => {
+      $('#register_active').modal('hide');
+    }, 3000);
+     }
+})
+</script>
+
+  
+  
+  
+  
+    
+<style type="text/css">
+.forgotpassword-error > p{
+	color: #bd2f2f;
+}	
+.forgotpassword-error{
+color: #bd2f2f;
+}
+</style>
+
+<!-- Forgot-password Popup -->
+<div class="modal fade" id="forgot" tabindex="-1" role="dialog" aria-labelledby="forgot">
+        <div class="modal-dialog" role="document">
+            <div class="login-div">
+			<div class="close" data-dismiss="modal" aria-label="Close"><img src="https://qaasset.satbet.com/images/close_btn.png" alt=""></div>
+			<div class="login-head">Forgot Password</div> 
+			<div class="alert-msg error-msg forgotpassword-error" style="display:none"></div>
+			<form action="https://devenubuntu.satbet.com/user/forgotpassword" class="form" id="forgotPassword" method="post" accept-charset="utf-8">
+                                                                                                           <input type="hidden" name="csrf_token" value="e11ab7d502a4a9903db930e605f9a443" />
+ 
+			<div class="input_dec">
+                <input type="text" class="input-txt" id="forgotemail" placeholder="Enter your e-mail" name="email">
+            </div>
+
+			
+			<button class="login-btn" type="submit"><span>Submit</span></button>
+			</form>			</div>
+        </div>
+    </div>
+<!-- End-Forgot-password Popup -->
+<script>
+
+	$.validator.addMethod("forgotemailexist",
+    function(value, element) {
+			$('.forgot_password').parent().find('.submit-loader').css('display','block');
+			$('.forgot_password').css('display','none');
+      var result = false;
+      var url = "https://devenubuntu.satbet.com/user/register/check_useremail_exists";
+      $.ajax({
+        type:"POST",
+        async: false,
+        url: url,
+        data:{emailid : value,[csrfName]:csrfHash},
+				beforeSend: function() {
+						
+    			},
+        success: function(msg) {
+          msg = JSON.parse(msg);
+					// $('.forgot_password').parent().find('.submit-loader').css('display','none');
+					// 	$('.forgot_password').css('display','inline-block');
+					if(msg.url) { window.location.href = response.url; return false; } 
+         if($.trim(msg.value) == "exists"){
+					 result = true;
+				 }else{
+					 	$('.forgot_password').parent().find('.submit-loader').css('display','none');
+						$('.forgot_password').css('display','inline-block');
+					 result = false;
+				 } 
+        }
+      });
+      return result;
+    },
+	"Email address not exists"
+  );
+
+
+
+    $("#forgotPassword").validate({
+			onkey:false,
+			onfocusout:false,
+        rules: {
+            "email": {
+                required: true,
+                email: true,
+                forgotemailexist: true,
+            }
+        },
+        messages: {
+            "email": {
+                required: "Enter an email",
+                email: "Enter a valid Email Address (Example : John@gmail.com)",
+            }
+        },
+        submitHandler: function(form,e) { // for demo
+				e.preventDefault();
+          $.ajax({
+            type: 'post',
+            url: 'https://devenubuntu.satbet.com/user/forgotpassword',
+            datatype:'Json',
+            data: $(form).serialize(),
+						beforeSend: function() {
+							$('.forgot_password').parent().find('.submit-loader').css('display','block');
+							$('.forgot_password').css('display','none');
+    			},
+            success: function(response) {   
+							response = JSON.parse(response);
+							if(response.url) { window.location.href = response.url; return false; } 
+							if(response.error == false){
+								$('.forgotpassword-error').removeClass('error-msg').addClass('success-msg');
+								$('.forgotpassword-error').html(response.message);
+								$('#forgotPassword')[0].reset();
+								$('.forgotpassword-error').css('display','block');
+								$('.forgot_password').parent().find('.submit-loader').css('display','none');
+								$('.forgot_password').css('display','inline-block');
+					
+						setTimeout(function(){
+						$('.error_msg').css('display','none');
+						$('#changepwd_popup').modal('hide');
+				
+						$('.forgotpassword-error').css('display','none');
+					},3000)
+					}else{
+					
+						$('.forgotpassword-error').removeClass('success-msg').addClass('error-msg');
+						$('.forgotpassword-error').html(response.message);
+						$('.forgotpassword-error').css('display','block');
+						
+						setTimeout(function(){
+						$('.error_msg').css('display','none');
+					},3000)
+					}
+					$('.error_msg').css('display','block');
+            }
+          });
+          return false;
+        }
+    });
+
+
+
+    
+</script>
+    <script>
+$(document).ready(function () {
+    $("form[name='formChangePassword']").validate({
+        rules: {
+            newpassword: {
+                required: true,
+                minlength: 8,
+                maxlength: 20,
+            },
+             confirm_password: {
+                required: true,
+                equalTo: "#newpassword"
+            }
+        },
+        messages: {
+              "newpassword": {
+                  required: "New password is empty"
+              },
+              "confirm_password": {
+                  required: "Confirm password is empty"
+              },
+        },
+        submitHandler: function(form, e) {
+          e.preventDefault();
+          $.ajax({
+            url: 'https://devenubuntu.satbet.com/user/Forgotpassword/resetpasslink',
+            type: 'POST',
+            datatype:'json',
+            data: $("#formChangePassword").serialize(),
+            success: function(response) {   
+              console.log(response, 'ResetPasswordResponse');
+              var ResponseDecode  = JSON.parse(response);
+              var ErrorMsg   = ResponseDecode.error_message;
+              var Status   = ResponseDecode.status;
+                if( Status === 1)
+                {   
+                    $('#submit_forgotpassword').attr('disabled','true');
+                    $('.reset-link-msg').addClass('alert-success');
+                    $('.reset-link-msg').removeClass('alert-danger');
+                    $('.reset-link-msg').html(ErrorMsg);
+                    $('#reset-link-div').show();
+                    // $('#error_result').fadeIn().html("<div class='alert alert-success'>"+ErrorMsg+"</div>");
+                    setTimeout(function() {
+                      $('#reset-link-div').fadeOut("slow");
+                      var url="https://devenubuntu.satbet.com/";
+                      window.location.href=url;
+                    }, 3000 );                    
+                }else{
+                    $('.reset-link-msg').removeClass('alert-success');
+                    $('.reset-link-msg').addClass('alert-danger');
+                    $('.reset-link-msg').html(ErrorMsg);
+                    $('#reset-link-div').show();
+                    // $('#error_result').fadeIn().html("<div class='alert alert-danger'>"+ErrorMsg+"</div>");
+                    setTimeout(function() {
+                            $('#reset-link-div').fadeOut("slow");
+							var url="https://devenubuntu.satbet.com/";
+							// window.location.href=url;
+                    }, 3000 );                    
+                }
+                
+            }
+          });
+          return false;
+        }
+    });
+
+});
+</script>
+<div class="modal fade" id="Login" tabindex="-1" role="dialog" aria-labelledby="Login">
+    <div class="modal-dialog loginpopupv2" role="document">
+        <div class="login_box">
+            <div class="login_leftimg"><img src="https://satbetqa.s3.amazonaws.com/signup_banner.png" alt="" /></div>
+<div class="login_leftimg_mob"><img src="https://satbetqa.s3.amazonaws.com/login_leftimg_mob.png" alt=""></div>            <div class="login-div"  id="one_click_signup">
+                <div class="close close-login" data-dismiss="modal" aria-label="Close"><img src="https://qaasset.satbet.com/images/close_btn.svg" alt="" /></div>
+
+                <div class="login_logo"><img src="https://qaasset.satbet.com/images/Satbet-logo.png" alt="" /></div>
+
+                <div class="satbet-container">
+                    <div class="satbet-tabs">
+                        <div class="satbet-tab satbet-tab-active" id="login-tab">Login</div>
+                        <div class="satbet-tab" id="signup-tab" style="display: none;">Sign Up</div>
+                    </div>
+                                        <form action="https://devenubuntu.satbet.com/user/login" class="form" id="loginForm" autocomplete="off" method="post" accept-charset="utf-8">
+          <input type="hidden" name="csrf_token" value="e11ab7d502a4a9903db930e605f9a443" />
+                    <div class="login-error error-msg" style="display: none;">Invalid Username and password</div>
+                    <div class="satbet-form satbet-form-active" id="login-form">
+                        <div class="form-floating form-floating-login mb-3 mt-3">
+                            <span class="input-group-text"><img src="https://qaasset.satbet.com/images/loginusericon.png" alt="" /></span>
+                            <input type="text" class="form-control form-control-login" id="username" placeholder="" name="username" minlength="4" maxlength="13"  autocomplete="off" />
+                            <label class="floating_label floating_label_login" for="">Username</label>
+                        </div>
+
+                        <div class="form-floating form-floating-login mb-3 mt-3">
+                            <span class="input-group-text"><img src="https://qaasset.satbet.com/images/password_loginicon.png" alt="" /></span>
+                            <span class="input-group-text input-group-text-right-icon open-eye" style="display:none;"><img src="https://qaasset.satbet.com/images/password_eye.png" alt="" /></span>
+                            <span class="input-group-text input-group-text-right-icon close-eye" style="display:block;"><img src="https://qaasset.satbet.com/images/password_eye_close.png" alt="" /></span>
+                            <input type="password" class="form-control form-control-login" id="password" placeholder="" name="password" minlength="8" maxlength="20"/>
+                            <label class="floating_label floating_label_login" for="">Password</label>
+                        </div>
+
+                        <div class="satbet-login-help">
+                            <!-- <div>Assistance for resolving login issues. <a class="need-help" href="https://wa.me/447360543211?text=Welcome%20to%20SATBET">Need Help?</a></div>
+<style>
+  .need-help{
+    color: #fff;
+  }
+  .need-help:hover{
+    color: #ffab06;
+  }
+</style> -->
+                                                         <div>Assistance for resolving login issues. <button class="need-help" type="button"><a href='https://linkli.in/Help'>Need Help?</a></button></div>
+                        </div>
+                        <div class="submit-loader">
+                            <div class="loader" style="display:center;" id="loader-2">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                        <button type="submit" class="login-btn"><span>Login</span></button>
+                    </div>
+                    </form>    <!-- register form start here -->
+    <div class="satbet-form" id="signup-form">
+                    <form action="https://devenubuntu.satbet.com/assets/images/footer-certify/footer-certify-img9.png" class="form" id="registerForm" autocomplete="off" method="post" accept-charset="utf-8">
+<input type="hidden" name="csrf_token" value="e11ab7d502a4a9903db930e605f9a443" />                                                                                                                              
+                    <input type="hidden" name="campaign_code" value="" id="campaign_code"  />
+                    <input type="hidden" name="rafUserId" value="" id="rafUserId"  />
+                    <input type="hidden" name="rafcampaign_code" value="" id="rafcampaign_code"  />
+                    <input type="hidden" name="affiliate_tagcode" value="" id="affiliate_tagcode"  />
+                    <input type="hidden" name="offer_id" value="" id="offer_id"  />
+                    <input type="hidden" name="clickid" value="" id="clickid"  />
+                    <input type="hidden" name="csrf_token" value="e11ab7d502a4a9903db930e605f9a443">
+                    <input type="hidden" name="username">
+                    <input type="hidden" name="password">
+                        <div class="signup_topbutton_group">
+                            <p>Now Create an Account</p>
+                            <div class="button_group">
+                                <button type="button" onclick="whatsappID()"><img src="https://qaasset.satbet.com/images/suwa.png" alt="" />For Whatsapp ID</button>
+                                <!-- <button type="button" id='oneclick_register'><img src="https://qaasset.satbet.com/images/suoc.png" alt="" />One Click Signup</button> -->
+
+                            </div>
+                        </div>
+
+                        <!-- <div class="or_section">
+                            <div class="signup_sepline"></div>
+                            <p style="float: inherit;">OR</p>
+                        </div> -->
+
+                        <div class="form-floating form-floating-login mb-3 mt-3">
+                            <span class="input-group-text"><img src="https://qaasset.satbet.com/images/loginusericon.png" alt="" /></span>
+                            <input type="text" class="form-control form-control-login" id="reg_username" placeholder="" name="reg_username"  autocomplete="off" />
+                            <label class="floating_label floating_label_login" for="">User Name</label>
+                        </div>
+
+                        <div class="form-floating form-floating-login mb-3 mt-3">
+                            <span class="input-group-text"><img src="https://qaasset.satbet.com/images/password_loginicon.png" alt="" /></span>
+                            <span class="input-group-text input-group-text-right-icon pass-open-eye" style="display:none;" ><img src="https://qaasset.satbet.com/images/password_eye.png" alt="" onclick=""/></span>
+                            <span class="input-group-text input-group-text-right-icon pass-close-eye" style="display:block;"><img src="https://qaasset.satbet.com/images/password_eye_close.png" alt="" /></span>
+                            <input type="password" name="reg_password" value="" minlength="8" maxlength="20" id="reg_password" class="form-control form-control-login" autocomplete="off" placeholder=""  />
+                            <label class="floating_label floating_label_login" for="">Password</label>
+                        </div>
+
+                        <div class="form-floating form-floating-login mb-3 mt-3">
+                            <span class="input-group-text"><img src="https://qaasset.satbet.com/images/password_loginicon.png" alt="" /></span>
+                            <span class="input-group-text input-group-text-right-icon conf-open-eye" style="display:none;"><img src="https://qaasset.satbet.com/images/password_eye.png" alt="" /></span>
+                            <span class="input-group-text input-group-text-right-icon conf-close-eye" style="display:block;"><img src="https://qaasset.satbet.com/images/password_eye_close.png" alt="" /></span>
+                            <input type="password" name="c_password" value="" id="c_password" minlength="8" maxlength="20" class="form-control form-control-login" autocomplete="off" placeholder=""  />
+                            <label class="floating_label floating_label_login" for="">Confirm Password</label>
+                        </div>
+                    <div class="reg_mobile_no">
+                        <div class="phone-number-field">
+                            <div class="dropdown country-flag-code-dropdown">
+                                <button class="btn country-flag-code-btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <div class="phone-code phone-flag-code">
+                                        <img src="https://qaasset.satbet.com/images/india-flag.png" class="flag-img" />
+                                        <span>+91</span>
+                                    </div>
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="#">
+                                        <div class="phone-code phone-flag-code">
+                                            <img src="https://qaasset.satbet.com/images/india-flag.png" class="flag-img" />
+                                            <span>+91</span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <input type="hidden" id="country_code" name="country_code" value="+91" />
+                            </div>
+                            <div class="form-floating form-floating2 mb-3 mt-3">
+                                <!-- <input type="text" class="form-control" id="username" placeholder="" name="username" /> -->
+                                <input type="text" name="mobile_no" value="" id="mobile_no" class="form-control number_only" autocomplete="off" minlength="10" maxlength="10" placeholder=""  />
+                                <label class="floating_label floating_label_login floating_label_login1" for="">Mobile Number</label>
+                                  <!-- <label for="floatingInputGroup1" class="mobno_field">Mobile Number</label> -->
+                                <button id='sendotp' class="sendotp" type='button'>Send OTP</button>
+                            </div>
+                            
+                        </div>
+                       <label id="mobile_no-error" class="lebel-error error error_mob" for="mobile_no"></label>
+                        <label id="otp_response-error" class="lebel-error error error_mob" for="otp_response"></label>
+                    </div>
+
+                    
+                    <!-- otp starts  -->
+                     <div class="form-floating form-floating-login mb-3 mt-3"  id='otp_div'>
+                            <input type="text" name="input_otp" value="" id="input_otp" class="form-control number_only" autocomplete="off" placeholder="" maxlength="6" disabled="true"  />
+                            <label class="floating_label floating_label_login enter_otp" for="">Enter OTP</label>
+                            <button id='verify_otp' type='button' class="otpVerification" style="display:none">Verify</button>
+                            <!-- <div class="timer_otp" id='timer_otp' style="align-items:center; gap:8px;">
+                                <img src="https://qaasset.satbet.com/images/timer.png" alt="timer">
+                                <p id='timer'>02:00</p>
+                            </div> -->
+                            <div class="timer_otp" id='timer_otp' style="align-items:center; gap:8px;">
+                                <img src="https://qaasset.satbet.com/images/timer.png" alt="timer">
+                                <p id='timer'>02:00</p>
+                            </div>
+                            
+                        </div>
+                        <label id="input_otp-error" class="lebel-error error error_mob" for="input_otp"></label>
+                            <label id="otp_response-error" class="lebel-error" for="otp_response"></label>
+                    <!-- otp ends  -->
+
+                        <div class="satbet-login-help">
+                            <label class="unique-switch">
+                                <input type="checkbox" id="terms" name="terms" />
+                                <span class="unique-slider round"></span>
+                            </label>
+                            I agree to <a class="need-help" href="/terms-and-conditions">Terms & Conditions</a>
+
+                        </div>
+                        <label id="terms-error" class="lebel-error error" for="terms" style="display: none;position: static;text-align: right;">Please accept to Terms and Conditions</label>
+                        <div class="submit-loader">
+                            <div class="loader" style="display:center;" id="loader-2">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                        <button type="submit" class="login-btn register-submit"><span>Register</span></button>
+                    </div>
+                    </form>                </div>
+
+                <div class="one_click_mobile_confirm col-lg-12 col-xs-12 col-md-12 col-sm-12" style="display:none">
+                     <form class="form" id="oneclickForm" autocomplete="off" method="post" accept-charset="utf-8">
+                                            <div class="one_click_head one_click_head2">Required Phone Number</div>
+                        <div class="one_click_head1">Please enter your valid mobile number.</div>
+
+                        <div class="reg_mobile_no reg_mobile_no1">
+                        <div class="phone-number-field">
+                            <div class="dropdown country-flag-code-dropdown">
+                                <button class="btn country-flag-code-btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <div class="phone-code phone-flag-code">
+                                        <img src="https://qaasset.satbet.com/images/india-flag.png" class="flag-img" />
+                                        <span>+91</span>
+                                    </div>
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="#">
+                                        <div class="phone-code phone-flag-code">
+                                            <img src="https://qaasset.satbet.com/images/india-flag.png" class="flag-img" />
+                                            <span>+91</span>
+                                        </div>
+                                    </a>
+                                </div>
+                                <input type="hidden" id="country_code" name="country_code" value="+91" />
+                            </div>
+                            <div class="form-floating form-floating2 mb-3 mt-3">
+                                <input type="text" name="one_click_mobile_no" value="" id="one_click_mobile_no" class="form-control" autocomplete="off" placeholder="">
+                                <label class="floating_label floating_label_login floating_label_login1" for="">Mobile Number</label>
+                            </div>
+                            
+                        </div>
+                        <label id="one_click_mobile_no-error" class="lebel-error error error_mob" for="one_click_mobile_no" style="display: none;"></label>
+                    </div>
+                <div class="one_click_head one_click_head2">Choose your Preferred option.</div>
+                    
+                    <div class="preferred_option_parent">
+                    <div class="preferred_option1">
+                        <div class="preferred_icon_and_heading">
+                            <img src="https://qaasset.satbet.com/images/msg_p.png" alt="">
+                            <p>SMS</p>
+                        </div>
+                        <label class="unique-switch unique-switch-p">
+                            <input type="radio" class="input-radio sms" value="1" name="msg_type" >
+                            <span class="unique-slider round"></span>
+                        </label>
+                    </div>
+                    <div class="pre_sep_line"></div>
+                     <div class="preferred_option1">
+                        <div class="preferred_icon_and_heading">
+                            <img src="https://qaasset.satbet.com/images/whatsapp_p.png" alt="">
+                            <p>Whatsapp</p>
+                        </div>
+                        <label class="unique-switch unique-switch-p">
+                            <input type="radio" class="input-radio whatsapp" value="2" name="msg_type" checked>
+                            <span class="unique-slider round"></span>
+                        </label>
+                    </div>
+                    </div>
+                    <div class="submit-loader">
+                            <div class="loader" style="display:center;" id="loader-2">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                        <button type="submit" id="onclickbtn" class="login-btn register-submit"><span>Next</span></button>
+                        <!-- <button type="submit" id="onclickbtn" class="login-btn register-submit" style="margin-top: 0px;"><span>Send</span></button> -->
+                    </form>    
+                </div>        
+
+                <!-- one click content -->
+                 <div class="one_click_wrapper col-lg-12 col-xs-12 col-md-12 col-sm-12" style="display:none">
+
+                <div class="form_set1 oneclick_content_details" >
+                  <span class="onhead">Sign Up One Click</span>
+                  <p>Your account was created!</p>
+
+                    <div class="transfer_details_content">
+                        <div class="oneclick_left_content" >
+                            <span class="input-group-text"><img src="https://qaasset.satbet.com/images/loginusericon.png" alt=""></span>
+                            <div class="transfer_details_info">
+                                <p class="transfer-details_content1">Your User Name</p>
+                                <p class="transfer_details_header onclick_username">-</p>
+                            </div>
+                        </div>
+                        <div class="copy_button click_btn username_copy_btn" copy_value="-">
+                            <p>Copy</p>
+                        </div>
+
+                    </div>
+                    <div class="transfer_details_content">
+                        <div class="oneclick_left_content" >
+                            <span class="input-group-text"><img src="https://qaasset.satbet.com/images/login_pw_enabled.png" alt=""></span>
+                            <div class="transfer_details_info">
+                                <p class="transfer-details_content1">Your Password</p>
+                                <p class="transfer_details_header onclick_password">-</p>
+                            </div>
+                        </div>
+                        <div class="copy_button click_btn password_copy_btn" copy_value="-">
+                            <p>Copy</p>
+                        </div>
+
+                    </div>
+                </div>
+
+                <button type="submit" class="login-btn oneclick-login-btn" onclick="capturePopup()"><img src="https://qaasset.satbet.com/images/download.png" alt="" /><span >Save as Image</span></button>
+                <hr>
+                
+                </div>
+            </form>
+                <!-- one click content -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+$(document).ready(function() {
+  $('#signbtn').click(()=>{
+        $('#signup-tab').click();
+        $('#login-tab').hide();
+         $('.satbet-container').css('display','block');
+        $('.one_click_mobile_confirm').css('display','none');
+        $('#one_click_mobile_no').val('')
+        $('#signup-tab').show();
+    });
+  $('#loginbutton').click(()=> {
+        $('.satbet-container').css('display','block');
+        $('.one_click_mobile_confirm').css('display','none');
+        $('#login-tab').click()
+        $('#signup-tab').hide();
+        $('#login-tab').show();
+    });
+
+$('#registerForm').validate();
+$('.username_copy_btn').click(function() {
+        var username = $('.onclick_username').text();
+        var button = $(this);
+        navigator.clipboard.writeText(username).then(function() {
+            console.log('text copied: ', username);
+            button.attr('data-tooltip','Copied!');
+            button.attr('data-tooltip-active', 'true');
+             setTimeout(() => {
+                button.attr('data-tooltip-active', 'false');
+             },2000);
+        }).catch(function(err) {
+            console.error('Failed to copy text: ', err);
+        });
+    });
+    $('.password_copy_btn').click(function() {
+        var password = $('.onclick_password').text();
+        var button = $(this);
+        navigator.clipboard.writeText(password).then(function() {
+            console.log('text copied: ', password);
+            button.attr('data-tooltip','Copied!');
+            button.attr('data-tooltip-active', 'true');
+             setTimeout(() => {
+                button.attr('data-tooltip-active', 'false');
+             },2000);
+        }).catch(function(err) {
+            console.error('Failed to copy text: ', err);
+        });
+    });
+});
+
+
+
+
+//Whatsapp ID
+const whatsappID = () => {
+    const whatsappUrl = 'https://wa.me/+918888877777';
+    window.location.href = whatsappUrl;
+};
+
+//End whatsapp ID
+
+  $(document).ready(function() {
+    $('#Login').on('hidden.bs.modal', function () {
+         $('#signup-tab').hide();
+        $('#login-tab').click()
+        $('#login-tab').show();
+        $('#signup-tab').hide();
+        if ($('.one_click_wrapper').css('display') === 'block') {
+            window.location.href = 'https://devenubuntu.satbet.com/';
+        }
+    });
+
+    $(".oneclick_signup_link").click(function() {
+      $.ajax({
+          url: 'https://devenubuntu.satbet.com/user/register/check_oneclickuserip_registerlimit',
+          type: 'post',
+          dataType:'json',
+          data: {[csrfName]: csrfHash},
+          success: function(response) {
+             if(response.status === 0){
+              $("#Login").modal('hide');
+              Swal.fire({ title: "Registration Failed!", text: response.error_message, icon: "warning" });
+            }else{
+              $("#Login").modal('hide');
+              $('.age_box,.terms_box').prop('checked', false);
+              onclick_confirm_popup();
+            }
+
+          },
+        });
+
+    });
+
+    $("#tc_close_btn").click(function() {
+      $("#signup").modal('show');
+      $("#one_click_confirmation").modal('hide');
+    });
+    // Function to validate checkboxes
+
+
+function onclick_confirm_popup(){
+    Swal.fire({
+    title: 'Please Confirm',
+    html: `
+            <form id="one_click_confirmation_form">
+            <input type="hidden" name="csrf_token_name" value="csrf_token_value">
+            <div class="checkbox_maindiv">
+                <div class="form-check conf-check">
+                <label class="unique-switch">
+                    <input type="checkbox" id="ageCheck" name="terms" class="form-check-input age_box" onchange="checkBoth(this.value)" />
+                    <span class="unique-slider round"></span>
+                </label>
+                <label class="form-check-label text-dark" for="ageCheck" style="color: #000002;text-align: left;font-size: 14px;">
+                    I’m over 18 years old.
+                </label>
+                </div>
+                <div class="form-check conf-check mt-3">
+                <label class="unique-switch">
+                        <input type="checkbox" id="termsCheck" name="termsCheck" class="form-check-input terms_box"  onchange="checkBoth(this.value)" />
+                        <span class="unique-slider round"></span>
+                    </label>
+                <label class="form-check-label text-dark" for="termsCheck" style="color: #000002;text-align: left;font-size: 14px;">
+                    I agree with <b>Terms & Conditions</b>
+                </label>
+                </div>
+            </div>
+            </form>
+        `,
+        customClass:'one_click_confirmation_box',
+        showCancelButton: false,
+        showConfirmButton: false
+        });
+}
+
+
+
+    $('#one_click_signup_close_btn').click(function () {
+      console.log('closed');
+        location.reload();
+    });
+
+
+  // Ensure modal-open class is added manually if missing
+  $('#one_click_confirmation').on('shown.bs.modal', function () {
+    $('body').addClass('modal-open');
+  });
+
+  $('#one_click_confirmation').on('hidden.bs.modal', function () {
+    $('body').removeClass('modal-open');
+  });
+
+  // Ensure modal-open class is added manually if missing
+  $('#one_click_signup').on('shown.bs.modal', function () {
+    $('body').addClass('modal-open');
+  });
+
+  $('#one_click_signup').on('hidden.bs.modal', function () {
+    $('body').removeClass('modal-open');
+  });
+
+
+  // Ensure modal-open class is added manually if missing
+  $('#signup').on('shown.bs.modal', function () {
+  $('body').addClass('modal-open');
+  });
+
+  $('#one_click_signup').on('hidden.bs.modal', function () {
+    $('body').removeClass('modal-open');
+  });
+
+
+  });
+
+  function capturePopup() {
+
+const element = document.getElementById('one_click_signup');
+$('#onclick_header, #oneclickForm').hide();
+    html2canvas(element, { backgroundColor: null }).then(canvas => {
+        // Convert canvas to JPEG
+        const link = document.createElement('a');
+        link.download = 'signup.jpg';
+        link.href = canvas.toDataURL('image/jpeg', 1.0); // 1.0 = high quality
+        link.click();
+    });
+   $('#onclick_header, #oneclickForm').show();
+}
+
+  function checkBoth() {
+    //   if ($('.age_box').is(':checked') && $('.terms_box').is(':checked')) {
+        // var username = "satuser" + Math.floor(Math.random() * 100000);
+        var username = '';
+        var password = generatePassword();
+
+        var c_password = password;
+        var one_click_signup = 1;
+        var google_id = 1;
+        let number = $('#one_click_mobile_no').val();
+        let mobile_no = number.replace(/-/g, "");
+
+        var csrfName = 'csrf_token'; // CSRF Token name
+        var csrfHash = 'e11ab7d502a4a9903db930e605f9a443';
+        $.ajax({
+          url: 'https://devenubuntu.satbet.com/user/register/check_oneclickuserip_registerlimit',
+          type: 'post',
+          dataType:'json',
+          data: {[csrfName]: csrfHash},
+          success: function(response) {
+             if(response.status === 0){
+            $('#Login').modal('hide');
+            $('.submit-loader').css('display','none');
+            $('#onclickbtn').css('display','block')
+            Swal.fire({ 
+            title: `<span style="color: #F40000;">Registration Failed!</span>`, // Title appears above
+            html: `<p>${response.error_message}</p>`, // Error message below title
+            imageUrl: "https://qaasset.satbet.com/images/close_1.png",
+            imageWidth: 50,
+            imageHeight: 50,
+            confirmButtonText: "Continue",
+            customClass: {
+                confirmButton: "custom-swal-button"
+            }
+            });
+
+              }
+            else{
+              $('.oneclick-confirmation-error').html('');
+              $.ajax({
+                url: 'https://devenubuntu.satbet.com/user/register/register',
+                type: 'post',
+                data: {
+                  username: username,
+                  password: password,
+                  c_password: c_password,
+                  one_click_signup: one_click_signup,
+                  google_id : google_id,
+                  mobile_no: mobile_no,
+                  [csrfName]: csrfHash
+                },
+                beforeSend: function() {
+                    $('.submit-loader').css('display','block');
+                    $('#onclickbtn').css('display','none');
+                },
+                success: function(response) {
+                  response = JSON.parse(response);
+                  if (response && response.userId) {
+                    username= response.userName;
+                    console.clear();
+                    console.table(response)
+                    swal.close();
+                    oneclick_send_credentials(username , password);
+                    $('.one_click_mobile_confirm').hide()
+                    $('.satbet-container').css('display','none');
+                    $('.one_click_wrapper').css('display','block');
+                    $('#Login').modal('show');
+                    $('.onclick_username').text(username);
+                    $('.onclick_password').text(password);
+                  } else {
+                    if(response.status){
+                        Swal.fire({ title: "Registration Failed!", text: response.error, icon: "error" });
+                    }else{
+                        Swal.fire({ title: "Registration Failed!", text: response.error_msg, icon: "error" });
+                    }
+                    $('.submit-loader').css('display','none');
+                    $('#onclickbtn').css('display','block');
+                    $('.age_box,.terms_box').prop('checked', false);
+                  }
+                },
+              });
+            }
+          }
+          });
+    //   }
+    };
+
+    $('#oneclick_register').on('click',()=>{
+         $('.satbet-container').css('display','none');
+        $('.one_click_mobile_confirm').css('display','block');
+    })
+    function generatePassword() {
+        const upperCase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        const lowerCase = 'abcdefghijklmnopqrstuvwxyz';
+        const specialChars = '@';
+        const numbers = '0123456789';
+
+        let password = '';
+        password += upperCase[Math.floor(Math.random() * upperCase.length)];
+        password += specialChars[Math.floor(Math.random() * specialChars.length)];
+        password += lowerCase[Math.floor(Math.random() * lowerCase.length)];
+        password += numbers[Math.floor(Math.random() * numbers.length)];
+        for (let i = 0; i < 4; i++) {
+            const charSet = Math.random() < 0.5 ? lowerCase : numbers;
+            password += charSet[Math.floor(Math.random() * charSet.length)];
+        }
+        return password.split('').sort(() => 0.5 - Math.random()).join('');
+    }
+
+$(document).on('click','#one_click_conf_close',function(){
+Swal.close();$("#signbtn").trigger('click');
+});
+
+
+$(document).ready(function() {
+  var lastUrl  = 'assets';
+if(lastUrl == 'signup'){
+        $('#signbtn').click();
+}
+});
+</script>
+<style>
+.signup_topbutton_group .button_group {
+    display: inline !important;
+}
+.lebel-error.error {
+    color: #ff4542 !important;
+}
+.oneclick_content_details .oneclick_left_content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        text-align: left;
+    }
+    .oneclick_content_details .oneclick_left_content .input-group-text{
+        position:relative;
+    }
+
+    .oneclick_content_details .transfer_details_content {
+        background: #F3F0DA;
+    }
+
+    .oneclick_content_details .copy_button p {
+        background: #fff;
+        cursor: pointer;
+    }
+
+    .one_click_wrapper .oneclick-login-btn{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .one_click_wrapper .oneclick-login-btn span{
+        text-align: center;
+        flex: 1;
+    }
+   .login-div1 {
+        padding: 20px;
+        border-radius: 10px;
+        font-family: Arial, sans-serif;
+    }
+
+    .save_img_btn {
+      cursor: pointer;
+    }
+    .onhead{
+      font-family: Poppins;
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 25.5px;
+      text-align: center;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+          color: black;
+    }
+    .disabled{
+        pointer-events: none; opacity: 0.6; cursor: not-allowed;
+    }
+    .need-help {
+    background: #ffffff;
+    color: #28a745;
+    font-weight: bold;
+    font-size: var(--fontsize_12);
+  }
+
+  .need-help:hover {
+    color: #ffab06;
+  }
+
+      .modal .signup_div {
+        height: 650px;
+        width: 440px;
+    }
+    .modal .signup_div, .modal .login-div {
+        width: 480px;
+    }
+    label.floating_label.floating_label_login.enter_otp {
+        padding-left: 10px;
+        padding-top: 12px;
+    }
+
+    @media screen and (max-width: 575px) {
+        .modal .signup_div, .modal .login-div {
+            width: 100%;
+        }
+    }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script>
+
+    $('.open-eye').click(function(){
+        $('#password').attr('type', 'password');
+        $(this).css('display','none');
+        $('.close-eye').css('display','block');
+    });
+    $('.close-eye').click(function(){
+        $('#password').attr('type', 'text');
+        $(this).css('display','none');
+        $('.open-eye').css('display','block');
+    });
+
+    document.addEventListener("DOMContentLoaded", () => {
+        const loginTab = document.getElementById("login-tab");
+        const signupTab = document.getElementById("signup-tab");
+        const loginForm = document.getElementById("login-form");
+        const registerForm = document.getElementById("signup-form");
+
+
+        loginTab.addEventListener("click", () => {
+            loginTab.classList.add("satbet-tab-active");
+            signupTab.classList.remove("satbet-tab-active");
+            loginForm.classList.add("satbet-form-active");
+            registerForm.classList.remove("satbet-form-active");
+        });
+
+        signupTab.addEventListener("click", () => {
+            signupTab.classList.add("satbet-tab-active");
+            loginTab.classList.remove("satbet-tab-active");
+            loginForm.classList.remove("satbet-form-active");
+            registerForm.classList.add("satbet-form-active");
+        });
+    });
+
+    document.addEventListener("DOMContentLoaded", () => {
+        const loginTab = document.getElementById("login-tab");
+        const signupTab = document.getElementById("signup-tab");
+        const loginForm = document.getElementById("login-form");
+        const registerForm = document.getElementById("signup-form");
+
+        loginTab.addEventListener("click", () => {
+            loginTab.classList.add("satbet-tab-active");
+            signupTab.classList.remove("satbet-tab-active");
+            loginForm.classList.add("satbet-form-active");
+            registerForm.classList.remove("satbet-form-active");
+        });
+
+        signupTab.addEventListener("click", () => {
+            signupTab.classList.add("satbet-tab-active");
+            loginTab.classList.remove("satbet-tab-active");
+            loginForm.classList.remove("satbet-form-active");
+            registerForm.classList.add("satbet-form-active");
+        });
+    });
+    $('.pass-close-eye').click(function () {
+        $('#reg_password').attr('type', 'text');
+        $('.pass-close-eye').hide();
+        $('.pass-open-eye').show();
+    });
+
+    $('.pass-open-eye').click(function () {
+        $('#reg_password').attr('type', 'password');
+        $('.pass-open-eye').hide();
+        $('.pass-close-eye').show();
+    });
+    $('.conf-close-eye').click(function () {
+        $('#c_password').attr('type', 'text');
+        $('.conf-close-eye').hide();
+        $('.conf-open-eye').show();
+    });
+
+    $('.conf-open-eye').click(function () {
+        $('#c_password').attr('type', 'password');
+        $('.conf-open-eye').hide();
+        $('.conf-close-eye').show();
+    });
+    $(".number_only").on("input", function() {
+        this.value = this.value.replace(/\D/g, '');
+    });
+
+    document.getElementById('one_click_mobile_no').addEventListener('input', function (e) {
+        let input = e.target.value.replace(/\D/g, ''); // Remove non-numeric characters
+        if (input.length > 3 && input.length <= 6) {
+        input = input.replace(/(\d{3})(\d+)/, '$1-$2');
+        } else if (input.length > 6 && input.length <= 10) {
+        input = input.replace(/(\d{3})(\d{3})(\d+)/, '$1-$2-$3');
+        }else if(input.length > 10){
+            input = input.substring(0, 10);
+            input = input.replace(/(\d{3})(\d{3})(\d+)/, '$1-$2-$3');
+        }
+        e.target.value = input;
+    });
+    $('#oneclickForm').validate({
+        rules: {
+            one_click_mobile_no: {
+                required: true,
+                is_mobile_number_start_with: true,
+                validPhone: true,
+                check_mobile_exist: true,
+            }
+        },
+        messages: {
+            one_click_mobile_no: {
+                required: 'Enter your mobile number',
+                validPhone: 'Please enter valid mobile number'
+            }
+        },
+        submitHandler: function(form, e) {
+            e.preventDefault(); 
+            $('.submit-loader').css('display','block');
+            $('#onclickbtn').css('display','none');
+            checkBoth();
+        }
+    });
+
+    $.validator.addMethod("validPhone",function (value, element) {
+        return this.optional(element) || value.length === 12;
+    },
+    "Please enter a valid phone number with 10 Number."
+);
+    $.validator.addMethod("check_mobile_exist",function(value, element) {
+      let mobile = value.replace(/[^0-9]/g, "");
+      var result = false;
+    var url = base_url+"user/register/check_usermobileno_exist";
+      $.ajax({
+        type:"POST",
+        async: false,
+        url: url,
+        data:{mobile_no : $('#country_code').val()+mobile,[csrfName]:csrfHash},
+        success: function(msg)
+        {
+          msg = JSON.parse(msg);
+          if( $.trim(msg.value) == "exists")
+          {
+            result = false;
+          }else{
+            result = true;
+          }
+        }
+      });
+      return result;
+    },
+    "Mobile number already exists"
+  );
+  function oneclick_send_credentials(username , password){
+    var csrfName = 'csrf_token'; // CSRF Token name
+            var csrfHash = 'e11ab7d502a4a9903db930e605f9a443';
+            var msg_type = $('input[name="msg_type"]:checked').val();
+            
+            $.post(
+                'https://devenubuntu.satbet.com/user/register/sendoneclick',
+                {
+                    [csrfName]: csrfHash,
+                    username: username,
+                    password: password,
+                    mobile_no: $('#one_click_mobile_no').val(),
+                    msg_type: msg_type,
+                },
+                function (response) {
+                },
+                'json'
+            );
+  }
+</script>
+<style type="text/css">
+    .msg_type_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 2px;
+    }
+
+    .msg_type_box .input-radio {
+        box-shadow: 0px 0px 0px 1px #6d6d6d;
+        width: 10px;
+        height: 10px;
+        margin: 5px 8px;
+        border-radius: 50%;
+        appearance: none;
+    }
+    .msg_type_box label {
+        display: flex;
+        margin: 10px 15px;
+        color: #000;
+        cursor: pointer;
+    }
+
+    .msg_type_box input[type=radio]:checked, .msg_type_box input[type=radio]:focus{
+        box-shadow: 0px 0px 0px 2px #ffb213 !important;
+        background-color: #e1ba59 !important;
+        outline: none;
+    }
+
+    .oneclick_content_details .oneclick_left_content{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            text-align: left;
+        }
+        .oneclick_content_details .oneclick_left_content .input-group-text{
+            position:relative;
+        }
+
+        .oneclick_content_details .transfer_details_content {
+            background: #F3F0DA;
+        }
+
+        .oneclick_content_details .copy_button p {
+            background: #fff;
+            cursor: pointer;
+        }
+
+        .one_click_wrapper .oneclick-login-btn{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .one_click_wrapper .oneclick-login-btn span{
+            text-align: center;
+            flex: 1;
+        }
+       .login-div1 {
+            padding: 20px;
+            border-radius: 10px;
+            font-family: Arial, sans-serif;
+        }
+
+        .save_img_btn {
+          cursor: pointer;
+        }
+        .onhead{
+          font-family: Poppins;
+          font-size: 17px;
+          font-weight: 700;
+          line-height: 25.5px;
+          text-align: center;
+          text-underline-position: from-font;
+          text-decoration-skip-ink: none;
+              color: black;
+        }
+        .disabled{
+            pointer-events: none; opacity: 0.6; cursor: not-allowed;
+        }
+
+        button.sendotp, button.otpVerification {
+            position: absolute;
+            top: 8px;
+            right: 6px;
+            border-radius: 8px;
+            padding: 3px 9px;
+            color: #10375C;
+            font-weight: 600;
+            font-size: 12px;
+            background: linear-gradient(167deg, #FCD35F, #FCD35F, #D8A727);
+        }
+
+        button.otpVerification {
+            color: #fff;
+            background: #00CD4C;
+        }
+
+        .timer_otp p {
+            margin-bottom: 0;
+            color: #10375C;
+            font-weight: 600;
+            margin-left: 6px;
+
+        }
+
+    .timer_otp {
+        display: flex !important;
+        justify-content: center;
+        align-items: center !important;
+        gap: 0px !important;
+        position: absolute;
+        top: 9px;
+        right: 70px;
+        display: none !important;
+    }
+
+    .timer_otp img {
+        width: 20px;
+        height: auto;
+    }
+</style><script type="text/javascript">
+
+var csrfName = 'csrf_token',
+    csrfHash = 'e11ab7d502a4a9903db930e605f9a443';
+	
+	
+
+    $(document).ready(function(){
+
+		$(".only-numeric").bind("keypress", function (e) {
+          var keyCode = e.which ? e.which : e.keyCode
+               
+          if (!(keyCode >= 48 && keyCode <= 57)) {
+            
+            return false;
+          }else{
+            
+          }
+      });
+
+		$('.pwd-show').click(function(e){
+			e.preventDefault();
+			$(this).parent().find('input').attr('type','text');
+		
+		})
+
+		$('.pwd-hide').click(function(e){
+			e.preventDefault();
+			$(this).parent().find('input').attr('type','password');
+		
+		})
+
+
+var base_url = 'https://devenubuntu.satbet.com/';
+$('#country').change(function(e){
+	$.ajax({
+		url : base_url+ 'user/register/getphonecode',
+		type: 'POST',
+		data: {'country_id':$(this).val(),[csrfName]:csrfHash},
+		success: function(response){
+			response = JSON.parse(response);
+            if(response==null){
+            	$('#country_code').html('<option value=""></option>')
+            }else{
+            	$('#country_code').html('<option value="'+response.CountryPhoneCode+'">'+response.CountryPhoneCode+'</option>')
+            }
+			$('#country_code-error').remove();
+			
+		}
+	})
+});
+});
+
+	var base_url = 'https://devenubuntu.satbet.com/';
+
+$.validator.addMethod('check_userpassword_format', function(value, element) {
+
+var alphabetsOnlyRegExp =   new RegExp("^[a-zA-Z0-9@*-_]*$");
+if (alphabetsOnlyRegExp.test(element.value)) {
+
+  return this.optional(element) || value.match(/^(?=.*[a-zA-Z])(?=.*[0-9])(?=.*[@*-_])[a-z0-9@*-_]{6,15}$/) ;
+
+  } else {
+
+  return false;
+  }
+
+},'Please use alphanumeric and special characters');
+
+
+$.validator.addMethod("check_mail_valid",
+    function (value, element) {
+      var testEmail = /^[A-Z0-9._%+-]+@([A-Z0-9-]+\.)+[A-Z]{2,4}$/i;
+      if (testEmail.test(element.value)) {
+      return true;
+      } else {
+      return false;
+      }
+    },
+  "Enter a valid Email Address (Example : John@gmail.com)"
+  );
+
+$.validator.addMethod("numberOnly",
+    function (value, element) {
+      var alphabetsOnlyRegExp = new RegExp("^[\\0-9]+$");
+
+      if (alphabetsOnlyRegExp.test(element.value)) {
+      return true;
+      } else {
+      return false;
+      }
+    },
+  "Enter valid mobile number"
+  );
+ $.validator.addMethod("check_mobilenumber_format", function(value, element) {
+  var rg = new RegExp(/^\+[1-9]\d{1,14}$/);
+  var mobile_format = $('#country_code').val()+value;
+      return this.optional(element) || rg.test(mobile_format);
+  }, "Mobile Number must be 10 digits"); //mobile_no_max_min_length
+
+  $.validator.addMethod("check_usermobileno_exist",
+    function(value, element) {
+		// alert('s')
+      var result = false;
+      var url = base_url+"user/register/check_usermobileno_exist";
+      $.ajax({
+        type:"POST",
+        async: false,
+        url: url,
+        data:{mobile_no : $('#country_code').val()+value,[csrfName]:csrfHash},
+        success: function(msg)
+        {
+          msg = JSON.parse(msg);
+          if( $.trim(msg.value) == "exists")
+          {
+            result = false;
+          }else{
+            result = true;
+          }
+        }
+      });
+      return result;
+    },
+    "Mobile number in use"
+  );
+
+   $.validator.addMethod("check_name_formats", function(value, element) {
+  var rg = new RegExp('^(?![0-9]*$)[a-zA-Z0-9]+$');
+      return this.optional(element) || rg.test(value);
+  }, "Username can be alphabets or alphanumeric");
+  $.validator.addMethod("check_usermobileno_exist",
+    function(value, element) {
+		// alert('s')
+      var result = false;
+      var url = base_url+"user/register/check_usermobileno_exist";
+      $.ajax({
+        type:"POST",
+        async: false,
+        url: url,
+        data:{mobile_no : $('#country_code').val()+value,[csrfName]:csrfHash},
+        success: function(msg)
+        {
+          msg = JSON.parse(msg);
+          if( $.trim(msg.value) == "exists")
+          {
+            // $('#senddiv').css('display','none');
+            result = false;
+          }else{
+            // $('#senddiv').css('display','block');
+            result = true;
+          }
+          //result = ($.trim(msg) == "exists") ? false : true;
+        }
+      });
+      return result;
+    },
+    "Mobile number in use"
+  );
+
+  $.validator.addMethod("check_username_exist",
+    function(value, element) {
+      var result = false;
+      var url = base_url+"user/register/check_username_exists";
+      $.ajax({
+        type:"POST",
+        async: false,
+        url: url,
+        data:{username : value,[csrfName]:csrfHash},
+        success: function(msg) {
+          msg = JSON.parse(msg);
+          result = ($.trim(msg.value) == "exists") ? false : true;
+        }
+      });
+      return result;
+    },
+    "Username already exists"
+  );
+ $.validator.addMethod("check_useremail_exist",
+    function(value, element) {
+      var result = false;
+      var url = base_url+"user/register/check_useremail_exists";
+      $.ajax({
+        type:"POST",
+        async: false,
+        url: url,
+        data:{emailid : value,[csrfName]:csrfHash},
+        success: function(msg) {
+          msg = JSON.parse(msg);
+          result = ($.trim(msg.value) == "exists") ? false : true;
+        }
+      });
+      return result;
+    },
+	"Email already exists"
+  );
+
+  $.validator.addMethod("is_valid_mobile_number_digit", 
+  function(value, element){
+    var result = false;
+    if(value.match(/^\d{10}$/)){
+      result = true;
+    }
+     return result;
+  },
+  "Mobile Number must be 10 digits"
+);
+$.validator.addMethod("is_mobile_number_start_with", 
+  function(value, element){
+    var result = false;
+    if(value.match(/^[6-9]/)){
+      result = true;
+    }
+     return result;
+  },
+  "Mobile number must start with 9,8,7,6"
+);
+
+
+		$("#registerForm").validate({
+      onfocusin: false,  // Disable on focus in
+      onsubmit: true,
+      onkeyup:false,
+   		 rules: {
+      mobile_no : {
+        required: true,
+        minlength: '6',
+        maxlength: '15',
+        // numberOnly:true,
+        // check_mobilenumber_format:true,
+        check_usermobileno_exist: true,
+        is_valid_mobile_number_digit: true,
+        is_mobile_number_start_with : true
+      },
+			reg_username: {
+				required: true,
+				minlength: '4',
+				maxlength: '13',
+				check_name_formats:true,
+				check_username_exist:true,
+			},
+			email: {
+				required: true,
+        minlength: '10',
+        maxlength: '30',
+        email: true,
+        check_mail_valid : true,
+        check_useremail_exist: true,
+
+			},
+		reg_password: {
+			required: true,
+			minlength: '8',
+			maxlength: '20',
+			check_userpassword_format: true
+		},
+		c_password : {
+						required: true,
+            minlength: '8',
+            maxlength: '20',
+						equalTo : "#reg_password"
+			},
+
+		currency : "required",
+		country : "required",
+		country_code : "required",
+		terms : "required",
+    },
+    messages: {
+		reg_username: {
+			required : 'Enter an username',
+			minlength: 'Username must contain at least 4 characters',
+			maxlength: 'Username maximum allowed characters is 13',
+		},
+		mobile_no: {
+			required : 'Enter your mobile number',
+			minlength : 'Enter valid mobile number',
+			maxlength : 'Enter valid mobile number',
+		},
+    reg_password: {
+        required: 'Enter a password',
+       minlength: 'Password must contain at least 8 characters',
+       maxlength: 'Password maximum allowed characters is 20',
+      },
+	  c_password: {
+		  required: 'Confirm password is required',
+       minlength: 'Password must contain at least 8 characters',
+       maxlength: 'Password maximum allowed characters is 20',
+		  equalTo: 'Password does not match',
+	  },
+      email: {
+		   required: 'Enter an email',
+       minlength: 'Please enter at least 10 characters',
+       maxlength: 'Email maximum allowed characters is 30',
+       email :'Enter a valid Email Address (Example : John@gmail.com)',
+	  } ,
+	  terms: 'Please accept to Terms and Conditions',
+	  currency: 'Please select your currency',
+	  country: 'Please select your country',
+	  country_code: '',
+
+    },
+    invalidHandler: function (event, validator) {
+      $.each(validator.errorList, function (index, error) {
+        let $element = $(error.element); // Wrap the element in jQuery for manipulation
+        let originalName = $element.attr("name");
+        setTimeout(() => {
+            $(`#${originalName}-error`).text(error.message).css('display','block');
+        }, 300);
+
+      });
+    },
+    errorClass: "lebel-error error",  // Custom error class
+    validClass: "valid",   // Custom class for valid inputs
+    submitHandler: function(form,e) {
+		e.preventDefault();
+    $("input[name='username']").val($("input[name='reg_username']").val());
+    $("input[name='password']").val($("input[name='reg_password']").val());
+		$.ajax({
+			url: 'https://devenubuntu.satbet.com/user/register/register',
+			type: 'POST',
+			data : $('#registerForm').serialize(),
+      dataType: 'json',
+			beforeSend: function() {
+				$('.submit-loader').css('display','block');
+			 	$('.register-submit').css('display','none');
+        $('.register-error, #terms-error').css('display', 'none');
+
+      },
+			success: function(response){
+        console.log(response.error , response.url);
+				if(response.error == false){
+          $('.register-error, #terms-error').css('display', 'none');
+          // _tfa.push({notify: 'event', name: 'lead', id: 1480317});
+				  window.location.href = response.url;
+				}else{
+          $('.register-error, #terms-error').html(response.message);
+          $('.register-error, #terms-error').css('display', 'block');
+          $('.submit-loader').css('display','none');
+          $('.register-submit').css('display','block');
+
+				}
+			}
+		});
+
+
+    }
+  });
+
+$('.char_number_only').keypress(function (event)
+{
+var regex = new RegExp("^[a-zA-Z0-9]*$");
+var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+if (!regex.test(key)) {
+event.preventDefault();
+return false;
+}
+});
+var sendRadar = 0;
+            $("#registerForm input").on('keyup',function(e){ 
+              if(sendRadar == 0){
+                srtmCommands.push({
+                event: "track.user.registration",
+                payload: {
+                action: "start"
+                }
+                }); 
+                sendRadar = 1;
+              }
+            });
+
+</script>
+
+<script>
+    
+    $(document).ready(function() {
+        $('#sendotp').css('display','none');
+        let totalSeconds = 120; // 2 minutes
+        let interval = null;     // store interval
+
+        function startTimer() {
+            // Reset timer
+            totalSeconds = 120;
+
+            // Clear any previous interval
+            if (interval) {
+                clearInterval(interval);
+            }
+
+            // Show timer container
+            $('#timer_otp').attr('style', 'display: flex !important; align-items:center; gap:8px;');
+
+            interval = setInterval(function() {
+                let minutes = Math.floor(totalSeconds / 60);
+                let seconds = totalSeconds % 60;
+
+                minutes = minutes < 10 ? '0' + minutes : minutes;
+                seconds = seconds < 10 ? '0' + seconds : seconds;
+
+                $('#timer').css('color','red').text(minutes + ':' + seconds);
+
+                if (totalSeconds <= 0) {
+                    clearInterval(interval);
+                    $('#verify_otp').hide();
+                    $('#timer').css('color','red').text("Time's up!");
+                }
+
+                totalSeconds--;
+            }, 1000);
+        }
+    $('#sendotp').click(()=>{
+        $('#otp_response-error').text('')
+        if ($('#mobile_no').val().trim() === '' || $('#mobile_no').val().length < 10 || $('#reg_username').val().trim() === '') {
+            // Mobile number validation
+            if ($('#mobile_no').val().trim() === '') {
+                $('#mobile_no-error').text('').text('Enter your mobile number');
+            } else if ($('#mobile_no').val().length < 10) {
+                $('#mobile_no-error').text('').text('Mobile number must be 10 digits');
+            } else if(!/^[6-9]/.test($('#mobile_no').val().trim())){
+                $('#mobile_no-error').text('').text("Mobile number must start with 9,8,7,6");
+            } else{
+                $('#mobile_no-error').text('');
+            }
+            // Username validation
+            if ($('#reg_username').val().trim() === '') {
+                $('#reg_username-error').text('Enter an username');
+                $('#mobile_no-error').text('Username must');
+                $('#reg_username').focus();
+            } else {
+                $('#reg_username-error').text('');
+            }
+            return false;
+        } else {
+            // $('#otp_div').css('display', 'none');
+            $('#otp_response-error').html("").text('');
+            $.ajax({
+                type: "POST",
+                url: 'https://devenubuntu.satbet.com/user/register/send_mobileno_otp',
+                data: { mobileCode: $('#country_code').val() , mobileNo:$('#mobile_no').val() , username  : $('#reg_username').val(), [csrfName]: csrfHash },
+                success: function (msg) {
+                    msg = JSON.parse(msg);
+                    if (msg.response === 2) {
+                       $('#mobile_no-error').html('').show().html("Mobile number in use");
+                    }else if(msg.response === 1){
+                        $('#verify_otp').show();
+                        $('#mobile_no-error').text('');
+                        $('#otp_response-error').html('').html("OTP Send successfully").css('color', 'green');
+                        $('#input_otp').val('');
+                        $('#verify_otp').css('display','block');
+                        $('#input_otp').attr('disabled',false);
+                        startTimer();
+                        // $('#otp_div').css('display','block');
+                        $('#sendotp').text('Resend OTP');
+                    }else if(msg.response === 3){
+                        $('#otp_response-error').html('').html("OTP Not send successfully").css('color', 'red');
+                    }else if(msg.response === 5){
+                        $('#sendotp').css('display','none');
+                        $('#mobile_no-error').html('')
+                        $('#otp_response-error').html('').html("Exceeded daily limit for this number.").css('color', 'red');
+                    }
+                    setTimeout(()=>{
+                        $('#otp_response-error').html('')
+                    },4000);
+                }
+            });
+        }
+    });
+});
+$('#input_otp').on('input', function() {
+    this.value = this.value.replace(/\D/g, '');
+    if (this.value.length > 6) {
+        this.value = this.value.slice(0,6);
+    }
+});
+
+$('#mobile_no, #reg_username , #input_otp').on('onblur keyup', function(e) {
+     $('#otp_response-error').html("").text('');
+   if(e.target.id == 'mobile_no'){
+        $('#sendotp').css('display','none').text('send OTP');
+        if ($('#mobile_no').val().trim() === '') {
+            $('#mobile_no-error').text('').text('Enter your mobile number');
+        } else if ($('#mobile_no').val().length < 10) {
+            $('#mobile_no-error').text('').text('Mobile number must be 10 digits');
+        } else if(!/^[6-9]/.test($('#mobile_no').val().trim())){
+            $('#mobile_no-error').text('').text("Mobile number must start with 9,8,7,6")
+        }else{
+            $('#sendotp').css('display','block');
+            $('#mobile_no-error').text('');
+        }
+    }
+    if(e.target.id == 'reg_username'){
+        $('#reg_username').val().length === 0 
+            ? $('#reg_username-error').text('Enter an username') 
+            : $('#reg_username-error').text('');
+    }
+    if(e.target.id == 'input_otp'){
+        $('#input_otp').val().length === 6 ? $('#verify_otp').css('display','block') 
+            : $('#verify_otp').css('display','block');
+        $('#input_otp-error').css('display','none').text('') 
+    }
+});
+$('#verify_otp').click(()=>{
+    if($('#input_otp').val()== ''){
+        $('#input_otp-error').css('display','block').text('Please enter OTP')
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: 'https://devenubuntu.satbet.com/user/register/verify_mobileno_otp',
+        data: { OtpNo: $('#input_otp').val(),mobileCode: $('#country_code').val() , mobileNo:$('#mobile_no').val() , [csrfName]: csrfHash,username  : $('#reg_username').val() },
+        success: function (msg) {
+            msg = JSON.parse(msg);
+            console.log(msg)
+            if (msg.response === 2) {
+                $('#mobile_no-error').show().html("Mobile number in use");
+                return false;
+            }else if(msg.response === 1){
+
+                $('#otp_response-error').html('').html("OTP verified successfully").css('color', 'green');
+                $('#otp_div').css('display','block');
+                $('#sendotp').remove();
+                $('#mobile_no-error').text('');
+                $('#input_otp').attr('disabled',true);
+                $('#verify_otp').attr('disabled',true).text('Verified');
+                $('#mobile_no').attr('readonly',true);
+                $('#timer_otp').hide();
+                setTimeout(()=>{ $('#otp_response-error').hide() },3000);
+                return true;
+            }else if(msg.response === 3){
+                $('#otp_response-error').html('').html("OTP Not send successfully");
+                return false;
+            }else if(msg.response === 4){
+                $('#input_otp').val('');
+                $('#input_otp-error').css('display','block').text('Invalid OTP')
+            }
+        }
+    });
+});
+
+</script><!-- login script -->
+<script>
+	$('#loginForm').validate({
+		onchange: false,
+		onsubmit: true,
+		onclick: false,
+		onkeypress: false,
+		onblur: false,
+		onfocusout: false,
+		rules: {
+			"username": {
+				required: true,
+				minlength: '4',
+				maxlength: '13',
+			},
+			"password": {
+				required: true,
+				minlength: '8',
+				maxlength: '20',
+			}
+		},
+		messages: {
+			"username": {
+				required: "Enter an username",
+				minlength: 'Username must contain at least 4 characters',
+				maxlength: 'Username maximum allowed characters is 13',
+			},
+			"password": {
+				required: "Enter a password",
+				minlength: 'Password must contain at least 8 characters',
+      			maxlength: 'Password maximum allowed characters is 20',
+			},
+		},
+    errorClass: "lebel-error error",  // Custom error class
+    validClass: "valid",
+		submitHandler: function(form, e) {
+			e.preventDefault();
+			$.ajax({
+				url: "https://devenubuntu.satbet.com/user/login",
+				type: 'POST',
+				data: $('#loginForm').serialize(),
+				dataType: 'json',
+				beforeSend: function() {
+					$('.submit-loader').css('display','block');
+					$('.login-btn').css('display','none');
+					$('.login-error').css('display', 'none');
+
+				},
+				success: function(data) {
+					if (data.error == false) {
+						srtmCommands.push({
+							event: "track.user.login",
+							payload: {
+							action: "complete",
+							userId: data.userid
+						}
+						});
+						// Remove specific session storage keys
+						sessionStorage.removeItem("_cltk");
+						sessionStorage.removeItem("fcmtoken");
+
+						window.location.href = data.redirect;
+
+					} else {
+						$('.login-error').html(data.message);
+						$('.login-error').css('display', 'block');
+						setTimeout(function() {
+							$('.login-error').css('display', 'none');
+                        }, 3000);
+
+						$('.login-btn').css('display','block');
+						$('.submit-loader').css('display','none');
+
+					}
+				}
+			});
+		}
+	});
+
+	$('#demoUserLogin').on('click', function(e) {
+        e.preventDefault();
+
+        if (this.id === 'demoUserLogin') {
+            $('#username').val('siva002');
+            $('#password').val('Test@123');
+        }
+
+			$.ajax({
+			url: "https://devenubuntu.satbet.com/user/login",
+			type: 'POST',
+			data: $('#loginForm').serialize(),
+			dataType: 'json',
+			beforeSend: function() {
+				$('.submit-loader').css('display','block');
+				$('.login-btn').css('display','none');
+				$('.login-error').css('display', 'none');
+
+			},
+			success: function(data) {
+				if (data.error == false) {
+					srtmCommands.push({
+						event: "track.user.login",
+						payload: {
+						action: "complete",
+						userId: data.userid
+					}
+					});
+					// Remove specific session storage keys
+					sessionStorage.removeItem("_cltk");
+					sessionStorage.removeItem("fcmtoken");
+
+					window.location.href = data.redirect;
+
+				} else {
+					$('.login-error').html(data.message);
+					$('.login-error').css('display', 'block');
+					setTimeout(function() {
+						$('.login-error').css('display', 'none');
+					}, 3000);
+
+					$('.login-btn').css('display','block');
+					$('.submit-loader').css('display','none');
+
+				}
+			}
+		});
+	});
+</script><script>
+   
+function isUserRestricted($form) {
+        
+    var restrictedStatus = false;
+
+    if (restrictedStatus === true) {
+        // Use Swal for a professional modal alert
+        Swal.fire({
+            title: 'Action Restricted',
+            text: 'This feature is not allowed for demo accounts. Please use a real account to access this feature.',
+            icon: 'error',
+            confirmButtonColor: '#d33',
+            confirmButtonText: 'OK'
+        });
+
+        return true; // Indicates the user IS restricted
+    }
+    
+    return false; // User is clear to proceed
+}
+</script>
+
+    <div>
+        <section class="st_404page">
+            <div class="container-fluid mob404_padding">
+                <div class="st_404_thumb">
+                    <img src="https://qaasset.satbet.com/images/404.png" alt="" class="dskt_404img">
+                    <img src="https://qaasset.satbet.com/images/404_mob.png" alt="" class="mob_404img">
+                    <div class="submit-sec submit-sec-404">  
+                        <input type="hidden" id="offline_payment_type" name="payment_type" value="45">
+                        <input type="hidden" id="banktransfer_promo_name" name="promo_name" value=""> 
+                        <a href="https://devenubuntu.satbet.com/"><input class="input-btn input-btn-404" type="submit" value="Go Back to Home"><a/>
+                    </div>
+                </div>  
+            </div>
+        </section>
+    </div>
+  <style type="text/css">
+ @media all and (display-mode: standalone) {
+  .install-pwd {
+    display: none!important;
+  }
+}   
+</style>
+ 
+<link rel="stylesheet" href="https://qaasset.satbet.com/css/footer-slice.css"/>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+
+    <script type="module">
+    // Remove specific session storage keys
+  sessionStorage.removeItem("fcmtoken");
+</script>
+ 
+ 
+
+
+
+<!-- <script type="text/javascript" src="//event.getblue.io/js/blue-tag.min.js" async="true"></script> -->
+<script type="text/javascript">
+  
+ window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view', id: 1480317});
+  !function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/1480317/tfa.js',
+  'tb_tfa_script');
+
+        
+        window.blue_q = window.blue_q || [];
+        window.blue_q.push(
+            {event: "setCampaignId", value: '0C539F6B-B5A9-CB64-3BD5AB6EA2B6F7AF'},
+            {event: "setPageType", value: "visit"}
+        );
+    
+
+    
+
+
+$(document).ready(function(){
+  $(".install_close_btn").click(function(){
+    $(".install-btn-main").remove();
+    $('#loom-companion-mv3').css('display','none');
+    $('.copy_right3').css('margin-bottom','0');
+  });
+  const isInStandaloneMode = () =>
+      (window.matchMedia('(display-mode: standalone)').matches) || (window.navigator.standalone) || document.referrer.includes('android-app://');
+    if (isInStandaloneMode()) {
+        console.log("webapp is installed")
+        $(".install-btn-main").remove();
+        $('#loom-companion-mv3').css('display','none');
+        $('.copy_right3').css('margin-bottom','0');
+    }
+  
+});
+
+
+ function setCookie(name,value,days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}   
+
+
+
+</script>
+
+
+  	
+<div class="satbet_revamp_footer new">
+    <div class="container-fluid">
+        <div class="row d-flex align-items-center footer_sepline footer_payment_sec ">
+            <div class="col-12 col-md-6 footer_payment_text_align">
+                <p class="footer_payment_text">Accept, process & disburse digital payments for your business.</p>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="footer_payment_images">
+                    <img src="https://satbet-proof.s3.amazonaws.com/fp1.png" alt="" class="img-fluid">
+                    <img src="https://satbet-proof.s3.amazonaws.com/fp2.png" alt="" class="img-fluid">
+                    <img src="https://satbet-proof.s3.amazonaws.com/fp3.png" alt="" class="img-fluid">
+                    <img src="https://satbet-proof.s3.amazonaws.com/fp4.png" alt="" class="img-fluid">
+                    <img src="https://satbet-proof.s3.amazonaws.com/fp5.png" alt="" class="img-fluid">
+                    <img src="https://satbet-proof.s3.amazonaws.com/fp6.png" alt="" class="img-fluid">
+  
+                </div>
+            </div>
+        </div>
+  
+        <div class="row footer_sepline ">
+            <div class="col-12 col-sm-4">
+                <div class="footer_logo_section footer_sepline_mobile">
+                    <div class="footer_logo"><img src="/assets/images/Satbet-logo.png" alt="" class="img-fluid"></div>
+                    
+                    <div class="footer_logo_section_content"><p class="footer_fontsize">We are Satbet, a friendly and honest online casino in India that delivers a great portfolio of games, from slots to the latest live dealer titles. We believe in offering entertainment in a secure environment and focus our efforts on providing fast and simple access for mobile gamblers to enjoy</p></div>
+                    <div class="footer_logo_section_sm_icons">
+                        <a href="https://api.whatsapp.com/send?phone=+919899451549&text=I%20need%20ID"><img src="https://satbet-proof.s3.amazonaws.com/sm_icon1.png" alt="" class="img-fluid"></a>
+                        <a href="https://www.facebook.com/satbetofficial"><img src="https://satbet-proof.s3.amazonaws.com/sm_icon2.png" alt="" class="img-fluid"></a>
+                        <a href="https://t.me/satbetofficial"><img src="https://satbet-proof.s3.amazonaws.com/sm_icon3.png" alt="" class="img-fluid"></a>
+                        <a href="https://www.instagram.com/satbet__india/"><img src="https://satbet-proof.s3.amazonaws.com/sm_icon4.png" alt="" class="img-fluid"></a>
+                        <a href="https://x.com/Satbe_t"><img src="https://satbet-proof.s3.amazonaws.com/sm_icon5.png" alt="" class="img-fluid"></a>
+                        <a href="https://in.pinterest.com/satbet_official/"><img src="https://satbet-proof.s3.amazonaws.com/sm_icon6.png" alt="" class="img-fluid"></a>
+                    </div>
+                </div>
+            </div>
+  
+  
+            <div class="col-12 col-sm-3 quicklink_align">
+  
+                <div class="quicklink_Section quicklink_Section_desktp">
+                <div class="quicklink_header"><p class="footer_fontsize">Quick Links</p></div>
+                <div class="quicklink_contents">
+                    <div class="quicklink_set">
+                        <a href="about-us"><p class="footer_fontsize">About Us</p></a>
+                        <a href="terms-and-conditions"><p class="footer_fontsize">Terms & Conditions</p></a>
+                        <a href="https://affiliates.satbet.com/signup.aspx"><p class="footer_fontsize">Affiliates</p></a>
+                        <a href="disclaimer"><p class="footer_fontsize">Disclaimer</p></a>
+                        <a href="responsible-gaming"><p class="footer_fontsize">Responsible Gaming</p></a>
+                    </div>
+                    <div class="quicklink_set">
+                        <a href="kyc-policy"><p class="footer_fontsize">KYC</p></a>
+                        <a href="privacy-policy"><p class="footer_fontsize">Privacy Policy</p></a>
+                        <a href="contact-us"><p class="footer_fontsize">Contact Us</p></a>
+                        <a href="sitemap"><p class="footer_fontsize">Site Map</p></a>
+                        <a href="casino-games"><p class="footer_fontsize">Casino</p></a>
+                    </div>
+                </div>
+            </div>
+  
+                    <div class="quicklink_Section quicklink_Section_mobile footer_sepline_mobile footer_sepline_mobile1">
+                        <a href="about-us"><p class="footer_fontsize quicklink_mobile"><span class="quicklink_header">Quick Links: </span>About Us</p></a></p>
+                        <a href="terms-and-conditions"><p class="footer_fontsize quicklink_mobile">Terms & Conditions</p></a>
+                        <a href="https://affiliates.satbet.com/signup.aspx"><p class="footer_fontsize quicklink_mobile">Affiliates</p></a>
+                        <a href="disclaimer"><p class="footer_fontsize quicklink_mobile">Disclaimer</p></a>
+                        <a href="responsible-gaming"><p class="footer_fontsize quicklink_mobile">Responsible Gaming</p></a>
+                        <a href="kyc-policy"><p class="footer_fontsize quicklink_mobile">KYC</p></a>
+                        <a href="privacy-policy"><p class="footer_fontsize quicklink_mobile">Privacy Policy</p></a>
+                        <a href="contact-us"><p class="footer_fontsize quicklink_mobile">Contact Us</p></a>
+                        <a href="sitemap"><p class="footer_fontsize quicklink_mobile">Site Map</p></a>
+                        <a href="casino-games"><p class="footer_fontsize quicklink_mobile quicklink_mobile_lastchild">Casino</p></a>
+                    </div>
+            </div>
+  
+  
+            <div class="col-12 col-sm-5">             
+                <div class="disclaimer_content">
+                    <p class="footer_fontsize"><span>Disclaimer:</span> Please note that Gaming involves a financial risk & could be addictive over time if not practises within limits. Only 18+ people should use the services & should use it responsibly. Players should be aware of any financial risk and govern themselves accordingly.</p>                   
+                </div>
+                <div class="disclaimer_images">
+                    <img src="assets/images/footer-certify/footer-certify-img1.png" alt="" class="img-fluid" />
+                    <img src="https://satbet-proof.s3.amazonaws.com/18plus.png" alt="" class="img-fluid" />
+                    <img src="assets/images/footer-certify/footer-certify-img3.png" alt="" class="img-fluid" />
+                    <img src="assets/images/footer-certify/footer-certify-img4.png" alt="" class="img-fluid" />
+                    <img src="assets/images/footer-certify/footer-certify-img5.png" alt="" class="img-fluid" />
+                    <img src="assets/images/footer-certify/footer-certify-img6.png" alt="" class="img-fluid" />
+                    <img src="assets/images/footer-certify/footer-certify-img7.png" alt="" class="img-fluid" />
+                    <img src="assets/images/footer-certify/footer-certify-img8.png" alt="" class="img-fluid" />
+                    <img src="assets/images/footer-certify/footer-certify-img9.png" alt="" class="img-fluid" />
+                </div>
+
+                <p class="disclaimer_content_secondarytext">&copy; 2025 Satbet. All Rights Reserved.</p>
+                
+            </div>
+        </div>
+  
+    </div>
+  </div>
+  
+  </body>
+  
+  </html>
+  
+  
+  <style>
+  
+    /* .container-fluid {
+        margin: 0 15px;
+    }
+  */
+  .satbet_revamp_footer {
+        background: white;
+        color: #3C3C3C;
+        padding: 0 30px;
+    }
+    .footer_payment_text_align {
+        padding-left: 0;
+        text-align: center;
+    }
+    p.footer_payment_text {
+        font-size: 16px;
+        font-weight: bold;
+        color: #3C3C3C;
+        margin-bottom: 0;
+    }
+    .footer_payment_images img {
+        margin: 10px 0px 10px auto;
+        margin-left: 28px;
+        width: 85px;
+        object-fit: contain;
+    }
+    .footer_payment_images {
+        display: flex;
+        height: auto;
+        justify-content: end;
+        flex-wrap: wrap;
+    }
+    .quicklink_contents {
+        display: flex;
+    }
+    .quicklink_set {
+        margin-right: 50px;
+    }
+    .quicklink_header p {
+    font-weight: bold;
+  }
+    .col-12.col-md-4.quicklink_align {
+        justify-content: center;
+        display: flex;
+        padding-top: 45px;
+    }
+    .certification_section img {
+        margin-right: 35px;
+    }
+    .certification_section img:last-child {
+        margin-right: 0;
+    }
+    .certification_section {
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 40px;
+    }
+    .footer_warning_sec {
+        text-align: justify;
+        text-align-last: center;
+        width: 85%;
+        margin: 0 auto;
+        font-size: 12px;
+        padding-top: 20px;
+        padding-bottom: 0;
+    }
+    .footer_fontsize {
+    font-size: 12px;
+    line-height: inherit;
+    font-weight: normal;
+  }
+    .footer_warning_sec p span {
+        font-weight: bold;
+        color: #3C3C3C;
+    }
+  
+    .disclaimer_content_secondarytext {
+        font-size: 10px;
+        font-weight: normal;
+    }
+  
+    .footer_sepline {
+        border-bottom: 1px solid #E3E3E3;
+        padding-bottom: 10px;
+    }
+  
+    .footer_logo_section {
+        padding-top: 45px;
+    }
+  
+    .disclaimer_content {
+        padding-top: 45px;
+    }
+  
+    .row.d-flex.align-items-center.footer_sepline {
+        margin-bottom: 0;
+        margin-top: 50px;
+        align-items: center;
+  
+    }
+  
+    .footer_logo, .disclaimer_images {
+        padding-bottom: 10px;
+    }
+  
+    p.footer_fontsize span {
+        font-weight: bold;
+        color: #3C3C3C;
+    }
+  
+    .disclaimer_images img {
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+  
+    .quicklink_set:last-child {
+        margin-right: 0;
+    }
+  
+    .footer_payment_images img:first-child {
+        margin-left: 0;
+    }
+  
+    .quicklink_Section.quicklink_Section_desktp {
+        padding-top: 45px;
+    }
+  
+    .quicklink_Section.quicklink_Section_mobile {
+            display: none;
+        }
+  
+    .quicklink_Section.quicklink_Section_desktp {
+        margin: 0 auto;
+    }
+  
+    .col-12.col-sm-4.quicklink_align {
+        margin: 0 auto;
+        display: flex;
+    }
+  
+    .footer_logo img {
+      width: 130px;
+    }
+    
+    .footer_sepline.footer_payment_sec {
+      border-top: 1px solid #E3E3E3;
+      padding-top: 10px;
+    }
+  
+    @media screen and (max-width: 1200px) {
+    .footer_logo_section_sm_icons img {
+        width: 46px;
+    }
+  
+    .footer_payment_images {
+        justify-content: center;
+    }    
+  
+    footer.satbet_revamp_footer {
+        display: block !important;
+    }
+  
+  
+  }
+  
+  @media screen and (max-width: 991px) {
+    .row.d-flex.align-items-center.footer_sepline {
+        align-items: center;
+    }
+  
+    .col-12.col-sm-4.quicklink_align {
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+  
+  
+    .quicklink_contents {
+        flex-direction: column;
+    }
+  
+    .quicklink_set {
+        margin-right: 0;
+    }
+  
+    p.footer_payment_text {
+        margin-bottom: 8px;
+    }
+  
+    .footer_payment_text_align {
+        padding: 0;
+    }F
+  
+    .footer_sepline {
+        padding-bottom: 30px;
+    }
+  
+    p.footer_fontsize {
+        text-align: justify;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+        p.footer_payment_text {
+            margin-bottom: 20px;
+        }
+        .row.d-flex.align-items-center.footer_sepline {
+            margin-top: 10px;
+        }
+        .footer_sepline {
+            padding: 20px 0;        
+        }
+        .footer_logo_section {
+            padding-top: 20px;
+            text-align: center;
+        }   
+        .footer_logo_section_sm_icons img {
+            width: 65px;
+        }
+        .footer_sepline_mobile {
+            border-bottom: 1px solid #E3E3E3;
+            padding: 10px 0;
+        }
+        .disclaimer_images {
+            padding-top: 10px;
+            padding-bottom: 0;
+        }
+        .footer_logo img {
+            padding-top: 0;
+            width: 120px;
+        }
+        .disclaimer_images, p.footer_fontsize, .disclaimer_content_secondarytext {
+            text-align: center;
+        }
+  
+        .footer_warning_sec, .certification_section {
+            display: none;
+        }
+  
+        .quicklink_Section.quicklink_Section_desktp {
+            display: none;
+        }
+  
+        .quicklink_Section.quicklink_Section_mobile {
+            display: block;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+  
+        p.footer_fontsize.quicklink_mobile {
+            margin-right: 5px;
+            border-right: 1px solid #3C3C3C;
+            padding-right: 5px;
+            margin-bottom: 10px;
+  
+        }
+  
+        p.footer_fontsize.quicklink_mobile.quicklink_mobile_lastchild {
+            margin-right: 0;
+            padding-right: 0;
+            border-right: 0;
+        }
+  
+  
+        .satbet_revamp_footer {
+            padding: 0;
+        }
+  
+  
+        /* p.disclaimer_content_secondarytext {
+            margin-bottom: 70px;
+        } */
+  
+        p.disclaimer_content_secondarytext {
+            font-size: 12px;
+            padding-bottom: 90px;
+        }
+        p.footer_fontsize.footer_sepline_mobile {
+            padding: 20px 0;
+        }
+  
+        .footer_sepline_mobile1 {
+            padding-bottom: 10px;
+        }
+  
+        }
+  
+        @media screen and (max-width: 565px) {
+  
+            .footer_payment_images {
+                justify-content: center;
+            }
+            .footer_payment_images img {
+                margin-left: 10px;
+            }
+  
+        }
+  
+  
+        @media screen and (max-width: 375px) {
+            .footer_payment_images {
+                justify-content: space-around;
+            }
+        }
+        
+        @media screen and (max-width: 767px) {
+            .disclaimer_content {
+                padding-bottom: 10px;
+                padding-top: 20px;
+            }
+        }
+  /* Promotions for static page css start */
+
+section.blog_detail_wrap ul li strong, section.blog_detail_wrap p strong {
+        color: #333 !important;
+    }
+
+    section.blog_detail_wrap a, section.blog_detail_wrap table td, section.blog_detail_wrap table tbody tr, section.blog_detail_wrap p a, section.blog_detail_wrap a:hover, section.blog_detail_wrap a:focus, section.blog_detail_wrap a:active  {
+    color: #333 !important;
+    }
+
+
+    section.blog_detail_wrap a:hover, section.blog_detail_wrap a:focus, section.blog_detail_wrap a:active {
+    outline: none !important;
+    text-decoration: none !important;
+    color: #333 !important;
+}
+
+section.blog_detail_wrap ul li, section.blog_detail_wrap ol li {
+    margin-bottom: 8px !important;
+    color: #3c3c3c !important;
+}
+
+section.blog_detail_wrap ul li, section.blog_detail_wrap tr th td{
+    margin-bottom: 8px !important;
+    color: #3c3c3c !important;
+}
+
+section.blog_detail_wrap ul li:first-child, section.blog_detail_wrap ol li:first-child {
+    margin-top: 8px !important;
+}
+
+.text_wrper .text_2 p strong {
+    color: #333 !important;
+}
+
+
+
+section.blog_detail_wrap .st_blog_detail_thumb .st_featured_thumb .text_2 p {
+    margin-bottom: 0;
+}
+
+section.blog_detail_wrap .st_blog_detail_thumb .st_featured_thumb .text_2 h2,
+section.blog_detail_wrap .st_blog_detail_thumb .st_featured_thumb .text_2 h3,
+section.blog_detail_wrap .st_blog_detail_thumb .st_featured_thumb .text_2 h4,
+section.blog_detail_wrap .st_blog_detail_thumb .st_featured_thumb .text_2 h5,
+section.blog_detail_wrap .st_blog_detail_thumb .st_featured_thumb .text_2 h6,
+section.blog_detail_wrap .st_blog_detail_thumb .st_featured_thumb .text_2 h1 {
+    padding-top: 15px;
+    clear: both;
+}
+
+section.blog_detail_wrap a, section.blog_detail_wrap table td, section.blog_detail_wrap table tbody tr, section.blog_detail_wrap p a, section.blog_detail_wrap a:hover, section.blog_detail_wrap a:focus, section.blog_detail_wrap a:active, section.blog_detail_wrap table td strong, section.blog_detail_wrap table th {
+    color: #333 !important;
+}
+
+
+section.blog_detail_wrap ul li, section.blog_detail_wrap ul li strong, section.blog_detail_wrap ol li, section.blog_detail_wrap ol li strong {
+    margin-bottom: 8px !important;
+    color: #3c3c3c !important;
+}
+
+section.blog_detail_wrap div {
+    color: #3c3c3c !important;
+}
+.text_2 a.promo-read-more span.label2, .text_2 a span.label2 {
+    background: none;
+    color: #F1CB58;
+    text-decoration: underline;
+    font-size: 14px;
+    padding: 0;
+}
+
+/* Promotions for static page css end */ 
+  
+  </style>
+  
+ 
+  <style>
+  .whatsapp-main-div.pos-left .on-hover-text, 
+  .whatsapp-main-div.pos-left:after { top: 50%; right: calc(100% + 10px); transform: translate(-0.5em,-50%); }
+  .on-hover-text { background-color: #ffffff; color: #333333; border-radius:50px; }
+  .whatsapp-main-div .on-hover-text, .whatsapp-main-div:after { text-align: center;min-width: 1em;max-width: 21em;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;padding: 5px 15px;border-radius: 10px;background: #fff;color: #333;font-size: 14px;line-height: 21px;}
+  .whatsapp-main-div .on-hover-text { overflow: visible; white-space: pre;}
+  .whatsapp-main-div.pos-left{ position:fixed;bottom:20px;left:12px;z-index:100; }
+  .float{ min-width:55px!important; min-height:55px!important; bottom:40px; background-color:rgb(0, 137, 35); color:#FFF; border-radius:50px; text-align:center; font-size:30px; z-index:100; padding: 6px 12px 6px 12px; }
+  .my-float{ margin-top:13px;}
+  .footer_logo_section_sm_icons img {
+      margin-left: -12px;
+      margin-right: -14px;
+  }
+
+@media screen and (max-width: 1200px) {
+    .footer_logo_section_sm_icons img {
+        margin-right: 0px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .footer_logo_section_sm_icons img {
+        margin-right: -10px;
+    }
+}
+
+
+.custom-bottom-nav {display: flex;}
+  </style>
+  <script>
+  $(document).ready(function(){
+  var lastURL = $(location).attr("href").split('/').pop();
+  if(lastURL=='')
+  {
+    $('.whatsapp-main-div').show();
+  }
+  
+              
+  
+  
+  });
+  
+  $('.mob_gamesearch').click(function(){
+         $('.gamesearch').toggleClass('show')
+         $('.gamesearch').toggleClass('displayshow')
+         $('.displayshow').css("hight",'24');
+  
+        })
+    $("#userfile,#userfile1").change(function () {
+    if (this.files && this.files[0]) {
+      if (this.files[0].name.match(/\.(png|jpg|jpeg)$/)) {
+        readURL(this);
+      } else {
+        $(this).val('');
+      }
+    }
+  });
+$("#edit_data").click(function(){
+		$('input[name="mobile"]').attr('readonly',true);
+});
+  </script>
+
+          <!--Start of Tawk.to Script-->
+  <script type="text/javascript">
+       var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/605b13d1f7ce1827093362a2/1f1hsaqsm';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+  window.Tawk_API = window.Tawk_API || {};
+    window.Tawk_API.onStatusChange = function (status) {
+        if (status === 'online' || status === 'away' || status === 'offline') {
+            Tawk_API.hideWidget();
+        }
+    };
+    </script>
+    <!--End of Tawk.to Script-->
+    <script src="https://qaasset.satbet.com/js/jquery.js?v=12.0.2"></script>    
+    <script src="https://qaasset.satbet.com/js/jquery.validate.min.js?v=12.0.2"></script>
+    <script src="https://qaasset.satbet.com/js/bootstrap.js?v=12.0.2"></script>
+    <script src="https://qaasset.satbet.com/js/infiniteslidev2.js?v=12.0.2"></script>
+     
+    
+     
+
+    <script src="https://qaasset.satbet.com/js/custom.js?v=12.0.2"></script> 
+
+
+
+    <script src="https://qaasset.satbet.com/js/datatable.js?v=12.0.2"></script>
+ 
+
+
+
+
+
+
+ <script type="text/javascript">(function (a, b, c, d, e, f) {
+          a[e]=a[e]||[];a.x=b.createElement(c);a.y=b.getElementsByTagName(c)[0];x.src=d+"?id="+f;x.setAttribute("data-srtmn",e);y.parentNode.insertBefore(x,y);
+      }(window, document, "script", "https://tm.ads.sportradar.com/dist/tag-manager.js", "srtmCommands", "STM-AAAALD"));</script>
+
+<script>
+function sportsorder_recordsubmit(INTERNAL_REFERENCE_NO,deposit_count,deposit_amount)
+{	
+if(deposit_count == 1)	
+{	
+srtmCommands.push({
+ event: "track.betting.deposit",
+ payload: {
+ action: "created",
+ label: "first_deposit",
+ userId: '',
+ transactionId: INTERNAL_REFERENCE_NO,
+ amount: deposit_amount,
+ currency: ''
+}
+});
+}
+else if(deposit_count >1)
+{	
+srtmCommands.push({
+ event: "track.betting.deposit",
+ payload: {
+ action: "created",
+ userId: '',
+ transactionId: INTERNAL_REFERENCE_NO,
+ amount: deposit_amount,
+ currency: ''
+}
+});
+}
+}
+
+</script>
+ 
+    
+ <script type="text/javascript">
+    var  base_url = 'https://devenubuntu.satbet.com/';
+
+                                $(window).load(function() {
+                    function ahref() {
+                        $("#loom-companion-mv3").remove();
+                    };
+                    setTimeout(function(){ ahref(); }, 500);
+                })
+        
+        function handleWhatsAppNewId() {
+          
+          const stbtnewid = "https://linkli.in/NewId";
+          const responsePayload = {
+              openwt: stbtnewid
+          };
+          console.log('whatsapp new id 1');
+
+          if (window.ReactNativeWebView?.postMessage) {
+            window.ReactNativeWebView.postMessage(JSON.stringify(responsePayload));
+          } else {
+            window.location.href = stbtnewid;
+          }
+        }
+
+        function handleWhatsAppSupport() {
+          const stbtsupport = "https://linkli.in/suprt";
+          const responsePayload = {
+            
+              openwt: stbtsupport
+            
+          };
+            console.log('whatsapp support 1');
+          
+          if (window.ReactNativeWebView?.postMessage) {
+            window.ReactNativeWebView.postMessage(JSON.stringify(responsePayload));
+          } else {
+            window.location.href = stbtsupport;
+          }
+        }
+
+        function handlePhoneDial() {
+          
+          const phoneNumber = "";
+          const responsePayload = {
+              opendl: phoneNumber
+          };
+          console.log('tel dailer 1');
+
+          if (window.ReactNativeWebView?.postMessage) {
+            window.ReactNativeWebView.postMessage(JSON.stringify(responsePayload));
+          }else {
+            // Fallback for browsers: redirect to phone dialer
+            window.location.href = "tel:" + phoneNumber;
+          }
+          
+        }
+
+          $("#new_id").on("click", handleWhatsAppNewId);
+          $("#support_id").on("click", handleWhatsAppSupport);
+          $("#custom-menu-tele").on("click", handlePhoneDial);
+
+     document.addEventListener("message", message => {
+
+      // console.log(JSON.parse(message.data));
+      let messageValue = JSON.parse(message.data);
+      const previousPage = document.referrer;
+      if(messageValue.backTriggered && previousPage){
+        window.history.back()
+      }
+      return true;
+
+        //console.log('message data -----> ', message.data);
+
+   let loginDetails = message.data;
+   var loginDetail = JSON.parse(loginDetails);
+   // alert(JSON.stringify(loginDetail));
+   
+   /*  console.table('start     ===========>',loginDetail);
+     console.log('Object type =======>',  typeof loginDetail);
+     console.log('Signature   =======>',  loginDetail.signatureKey);
+     console.log('DeviceID    =======>',  loginDetail.deviceUniqueId);*/
+  setTimeout(()=>{
+      let signup = $('#signup-popup').attr('style') == 'display: block;';
+      if(signup == false){
+        $('#login-popup').modal('show')
+      }
+    },3000);
+    
+    if(loginDetail.appLogout == true){
+       var csrfName = 'csrf_token';
+      var csrfHash = 'e11ab7d502a4a9903db930e605f9a443';
+        var Url = base_url + "logout";
+       $.post(Url, {[csrfName]: csrfHash}, function(data){});
+    }
+    if(loginDetail.deviceUniqueId !='' && loginDetail.deviceUniqueId != undefined ){
+        setCookie('deviceUniqueId', loginDetail.deviceUniqueId, 365);
+    }
+    let biometric_enable = '1';
+    if(loginDetail.biometricEnabled_User == true && biometric_enable==1){
+        $('#biometric_login_div').css('display','block');
+    }
+    if(loginDetail.biometricEnabled_User == false){
+      var csrfName = 'csrf_token';
+      var csrfHash = 'e11ab7d502a4a9903db930e605f9a443';
+      var Url = base_url + "disable_biometic";
+       $.post(Url, {[csrfName]: csrfHash}, function(data){
+        console.log('clear data',data);
+       });
+    }
+   if(loginDetail.loginSuccessStatus == true) {
+      window.location.href = base_url;
+   }
+   if(loginDetail.loginSuccessStatus == false) {
+        $('#login-popup').modal('hide');
+        $('#header_error_div1').modal('show');
+        $('.header_error_msg').html('Invalid login access , Please try with username and password ');
+        $('#biometric_login_div').css('display','none');
+        setTimeout(function(){
+            $('#header_error_div1').modal('hide');
+        },3000);
+   }
+   if(loginDetail.BioSuccessPopup == true) {
+        $('#bio-config-popup').modal('hide');
+        $('#header_error_div1').modal('show');
+        $('.header_error_msg').html('Biometric enabling process has been completed successfully!');
+        $('#checkbox-biometric').attr('checked',true);
+        setTimeout(function(){
+            $('#header_error_div1').modal('hide');
+        },3000);
+   }
+   if(loginDetail.BioSuccessPopup === false){
+      $('#bio-config-popup').modal('hide');
+        $('#header_error_div1').modal('show');
+        $('.header_error_msg').html('Biometric enabling process has been not completed successfully!');
+        $('#checkbox-biometric').attr('checked',false);
+        setTimeout(function(){
+            $('#header_error_div1').modal('hide');
+        },3000);
+   }
+    if(loginDetail.biometricSupportedDevice == false){
+          $('#bio-config-popup').modal('hide');
+          $('#header_error_div1').modal('show');
+          $('.header_error_msg').html('Biometric is not supported on your device or Atleast one fingerprint must be enrolled!');
+          $('#checkbox-biometric').attr('checked',false);
+          setTimeout(function(){
+            $('#header_error_div1').modal('hide');
+          },3000);
+          let text = {
+             "sports": {
+             "BioMetricEnabledUser": false,
+             "NewLoginedUser":false
+          }}
+          window.ReactNativeWebView.postMessage(JSON.stringify(text));
+    }
+    if(loginDetail.publickKeyError == true){
+          $('#bio-config-popup').modal('hide');
+          $('#header_error_div1').modal('show');
+          $('.header_error_msg').html('You have to enroll atleast one biometric authentication in your device!');
+          $('#checkbox-biometric').attr('checked',false);
+          setTimeout(function(){
+            $('#header_error_div1').modal('hide');
+          },3000);
+    }
+    if(loginDetail.invalidPublicError === true || loginDetail.invalidSignError === true){
+          $('#bio-config-popup').modal('hide');
+          $('#header_error_div1').modal('show');
+          $('.header_error_msg').html('we are facing some technical issue, Please try again later!');
+          $('#biometric_login_div').css('display','none');
+          $('#login-popup').modal('hide');
+          setTimeout(function(){
+            $('#header_error_div1').modal('hide');
+          },3000);
+          
+    }
+    if(loginDetail.isTooManyAttempts == true || loginDetail.cancelBiometricStatus == false){
+      $('#biometric_login_div').css('display','none');
+      if(loginDetail.isTooManyAttempts == true){
+          $('#login-popup').modal('hide');
+          $('#header_error_div1').modal('show');
+          $('.header_error_msg').html('Too many attempt try again later , login with credentials!');
+          setTimeout(function(){
+            $('#header_error_div1').modal('hide');
+          },3000);
+          // $('#login-popup')modal('hide');
+          // $('#login-popup').removeClass("in");
+      }
+    }
+    
+});
+    $('#dont_show').click(function() {
+        
+        var csrfName = 'csrf_token';
+        var csrfHash = 'e11ab7d502a4a9903db930e605f9a443';
+          var Url = "https://devenubuntu.satbet.com/account_setting/account_setting/biometric_dont_show";
+          $.post(Url, {[csrfName]: csrfHash}, function(data) {
+           var op = JSON.parse(data);
+            if (op.status == 1) {
+                $('#login-bio-popup').modal('hide');
+            }
+          });
+    });
+    $('#biometric_login_div').click(function(){
+        let text = {
+          "sports": {
+          "showBiometricPopup":true
+        }}
+        window.ReactNativeWebView.postMessage(JSON.stringify(text));
+    });
+
+    function download_app_details(event) {
+          event.preventDefault();
+          var deviceDetails = device_details();
+          $.ajax({
+            url: 'https://devenubuntu.satbet.com/app_download',
+            type: 'POST',
+            dataType: "json",
+            data: {
+              [csrfName]: csrfHash,
+              'device_details': deviceDetails
+            },
+            success: function(response) {
+              try {
+                //response = JSON.parse(response);
+                if (response.url) {
+                  window.location.href = response.url;
+                } else {
+                  console.error('No download URL found in the response.');
+                }
+              } catch (error) {
+                console.error('Error parsing JSON response:', error);
+              }
+            },
+            error: function(xhr, status, error) {
+              console.error('AJAX error:', status, error);
+            }
+          });
+        }
+
+    function device_details() {
+      screen_size = screen.height + "*" + screen.width;
+      device_location = navigator.geolocation.getCurrentPosition(successCallback);
+      return [screen_size, device_location];
+    }
+    
+    function successCallback(position) {
+      return [position.coords.latitude, position.coords.longitude]
+    }
+
+    </script>   
+
+<style>
+    .header_error_msg{font-size: 12px;}
+</style>  
+
+
+
+<!-- Footer Menu Option -->
+
+<div class="backdrop-overlay" id="backdrop-overlay" style="display: none;"></div>
+
+<div class="custom-bottom-nav">
+  <div class="custom-nav-slot custom-bg-primary custom-round-left">
+    <a href="https://devenubuntu.satbet.com/" class="custom-nav-link custom-link-home" style="color: #075e54;">
+       
+      <img src="https://qaasset.satbet.com/images/bottom_nav/white_home.png" alt="">
+        </a>
+    <p class="custom-label-home">Home</p>
+  </div>
+  <div class="custom-nav-slot custom-bg-primary">
+    <a href="https://devenubuntu.satbet.com/live-casino-games" class="custom-nav-link custom-link-casino" style="color: #964d4d;">
+       
+      <img src="https://qaasset.satbet.com/images/bottom_nav/white_casino.png" alt="">
+        </a>
+    <p class="custom-label-casino">All Casino</p>
+  </div>
+  <div class="custom-nav-slot custom-curve-slot">
+    <nav class="custom-menu">
+      <input type="checkbox" class="custom-checkbox">
+      <div class="custom-checkbox-list">
+        <a class="custom-menu-item custom-menu-tele" onclick="handlePhoneDial()" id="custom-menu-tele"><img src="https://qaasset.satbet.com/images/bottom_nav/bn_tele.png" alt=""></a>
+        <button class="custom-menu-item custom-menu-wa" id="custom-menu-wa"><img src="https://qaasset.satbet.com/images/bottom_nav/bn_wa.png"></button>
+        <button class="custom-menu-item custom-menu-bot" onclick="Tawk_API.toggle()" id="custom-menu-bot"><img src="https://qaasset.satbet.com/images/bottom_nav/bn_bot.png" alt=""></button>
+        <div class="bg_curve">
+                    <img src="https://qaasset.satbet.com/images/bottom_nav/bn_bend.png" alt="" class="custom_chat_bg_mobile" />
+                    <img src="https://qaasset.satbet.com/images/bottom_nav/bn_bend_desktop.png" alt="" class="custom_chat_bg_desk" />
+                </div>
+      </div>
+    </nav>
+    <p class="custom-label-chat">Chats</p>
+  </div>
+  <div class="custom-nav-slot custom-bg-primary">
+    <a href="https://devenubuntu.satbet.com/sportsbook" class="custom-nav-link custom-link-sports" style="color: #4b5da1;">
+       
+      <img src="https://qaasset.satbet.com/images/bottom_nav/white_sports.png" alt="">
+        </a>
+    <p class="custom-label-sports">Sports</p>
+  </div>
+  <div class="custom-nav-slot custom-bg-primary custom-round-right">
+    <a href="/menu" class="custom-nav-link custom-link-menu" style="color: #4a80f5;">
+       
+        <img src="https://qaasset.satbet.com/images/bottom_nav/bn_menu.png" alt="">
+          </a>
+    <p class="custom-label-menu">Menu</p>
+  </div>
+
+
+  <div class="whatsapp_click_popup" id="whatsapp_click_popup">
+  <div class="close" onclick="$('#whatsapp_click_popup').hide()" data-dismiss="modal" aria-label="Close"><img src="https://qaasset.satbet.com/images/close_btn.svg" alt=""></div>
+  <p>Select</p>
+  <div class="bn_btn_grp">
+    <button type="button" id="new_id" onclick="handleWhatsAppNewId()"><img src="https://qaasset.satbet.com/images/suwa.png" alt="">Get a New ID</button>
+    <button type="button" id="support_id" onclick="handleWhatsAppSupport()"><img src="https://qaasset.satbet.com/images/suwa.png" alt="">Get Support</button>
+  </div>
+</div>
+
+</div>
+
+
+<script>
+// $(document).on('click', function () {
+//   console.log($('.user_profile_menu.open').length , 'click');
+//   if($('.user_profile_menu.open').length){
+//      $('.user_profile_menu').removeClass('open');
+//      $('.userdtls_hdr22_dropdown').removeClass('show');
+//   }else{
+//     $(".userdtls_hdr22").click(function(){
+//       $(this).toggleClass("open");
+//       $(".userdtls_hdr22_dropdown").toggleClass("show");
+//     });
+//   }
+// });
+
+$(".userdtls_hdr22").click(function(){
+    $(this).toggleClass("open");
+    $(".userdtls_hdr22_dropdown").toggleClass("show");
+  });
+  $('.userdtls_hdr22_dropdown').on('click', function (event) {
+  event.stopPropagation();
+});
+  document.addEventListener("DOMContentLoaded", () => {
+  const checkbox = document.querySelector(".custom-checkbox");
+  const backdrop = document.getElementById("backdrop-overlay");
+  const whatsappTrigger = document.getElementById("custom-menu-wa");
+  const whatsappClickPopup = document.getElementById("whatsapp_click_popup");
+
+  checkbox.addEventListener("change", () => {
+    if (checkbox.checked) {
+      backdrop.style.display = "block";
+    } else {
+      backdrop.style.display = "none";
+      whatsappClickPopup.style.display = "none";
+    }
+  });
+
+  backdrop.addEventListener("click", () => {
+    checkbox.checked = false;
+    backdrop.style.display = "none";
+    whatsappClickPopup.style.display = "none";
+  });
+
+});
+
+$(document).on('click','.custom-menu-item',function(){
+if($(this).attr('id') == 'custom-menu-wa'){
+$("#whatsapp_click_popup").toggle();
+}else{
+$("#whatsapp_click_popup").hide();
+}
+});
+
+//Hide chat popup
+
+
+
+//End chat popup
+
+// $(document).on("click", "*", function () {
+//   if(!$(this).hasClass('userdtls_hdr22')){
+//       console.log('inside')
+//   }
+// });
+
+</script>
+
+<script>
+  $(document).ready(function () {
+    $(document).on("click touchstart", function (event) {
+        if (!$(event.target).closest(".user_profile_menu.userdtls_hdr22").length) {
+            $(".user_profile_menu.userdtls_hdr22").removeClass("open");
+            $(".userdtls_hdr22_dropdown").removeClass("show");
+        }
+    });
+
+    // Prevent the event from closing when clicking inside the dropdown
+    $(".user_profile_menu.userdtls_hdr22").on("click touchstart", function (event) {
+        event.stopPropagation();
+    });
+});
+
+</script>
+
+
+</body>
+</html>

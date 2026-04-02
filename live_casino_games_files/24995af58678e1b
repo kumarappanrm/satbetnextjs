@@ -1,0 +1,42 @@
+function insertAfter(el, referenceNode){referenceNode.parentNode.insertBefore(el, referenceNode.nextSibling);}
+var _24995af58678e1b='';
+_24995af58678e1b += "<a target=\"_blank\" rel=\"nofollow\" href=\"https:\/\/pubads.g.doubleclick.uk.net\/deliver\/click\/24995af58678e1b\/04e368ab29b98f6?uuid=bc78e037-ac44baa3-68385f64-93df-4f18cd5b&amp;vid=ma_a34ef4782b9d913706d8fa353a36cf4169cd08b3446334.09906798&amp;token=24995af58678e1b\">\n\t<img width=\"1\" height=\"1\" border=\"0\" title=\"\" alt=\"\" src=\"https:\/\/pubads.g.doubleclick.uk.net\/images\/delivery\/dd3d335669720fb62525.png\">\n<\/a>";
+
+var vid = "ma_a34ef4782b9d913706d8fa353a36cf4169cd08b3446334.09906798";
+
+var mS = document.getElementById('ma_a34ef4782b9d913706d8fa353a36cf4169cd08b3446334.09906798');
+if(mS === null || mS === undefined) {mS = document.currentScript;}
+
+var div = document.createElement('div')
+div.id = "ma_a34ef4782b9d913706d8fa353a36cf4169cd08b3446334.09906798";
+div.innerHTML = _24995af58678e1b;
+
+
+if(mS !== null){
+    insertAfter(div, mS);
+}
+
+
+var scripts = Array.prototype.slice.call(div.getElementsByTagName("script"));
+
+for (var i = 0; i < scripts.length; i++) {
+    if (scripts[i].src !== "") {
+        var tag = document.createElement("script");
+        tag.src = scripts[i].src;
+        document.getElementsByTagName("head")[0].appendChild(tag);
+    } else {
+        code = scripts[i].innerHTML;
+        if (code.trim()) {
+            new Function(code)();
+        }
+    }
+}
+
+
+
+
+
+
+
+
+

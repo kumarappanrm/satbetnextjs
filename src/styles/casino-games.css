@@ -1,0 +1,588 @@
+/**
+ * Casino games listing — matches saved SATBET `all-minify.css` casino block
+ * (cream toolbar, white search row, category icon strip, 7-col grid).
+ */
+
+.casino-page-main {
+  background-color: #fff;
+  min-height: 50vh;
+}
+
+.container-fluid.casino_top {
+  position: relative;
+  z-index: 2;
+  overflow: visible;
+}
+
+/* Inline in casino-games.html — grid sits flush under header */
+.download-area-bottom {
+  padding-top: 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-gap: 8px;
+  grid-template-columns: repeat(7, 1fr);
+  margin-bottom: 30px;
+}
+
+.boxed-btn a {
+  color: #3c3c3c;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+span.hidden-d {
+  display: none;
+}
+
+.hidden-d.spacer {
+  display: none;
+}
+
+.section-header.g-header .games-title {
+  color: #000000;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.section-header.g-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-top: 28px;
+}
+
+.no_of_games p {
+  font-size: 15px;
+  font-weight: 500;
+  color: #292929;
+  margin-bottom: 10px;
+}
+
+/* casino-games.html / all-minify: fixed toolbar height so category strip overflows below the cream card */
+.casino_page_topsection {
+  background: #f3f0da;
+  border-radius: 20px;
+  padding: 15px;
+  margin-top: 20px;
+  box-sizing: border-box;
+  overflow: visible;
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .casino_page_topsection {
+    height: 150px;
+    min-height: 0;
+  }
+}
+
+.game_provider_search_structure {
+  width: 100%;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 0;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.casino_page_topsection button.dropbtn {
+  white-space: nowrap;
+  background-color: #f1cb58 !important;
+  border: none;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 3px;
+  cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+  color: #10375c;
+  position: relative;
+  display: inline-block;
+}
+
+/* all-minify .search-input + DM Sans inheritance */
+.search-input {
+  border: none;
+  outline: none;
+  padding: 10px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  min-width: 0;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+  color: #777;
+  background-color: #fff;
+  caret-color: #10375c;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.search-input::placeholder {
+  color: #bbb;
+  opacity: 1;
+}
+
+.casino_page_topsection .search-container .search-button {
+  background-color: #10375c;
+  color: #fff;
+  border: none;
+  border-radius: 9px;
+  padding: 8px 20px;
+  margin: 0 6px;
+  cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.casino_page_topsection .search-container .search-button:hover {
+  background-color: #002d55;
+}
+
+.casino_page_topsection .search-container button.search-icon {
+  display: none;
+}
+
+input.search-input.casino_Search {
+  border: none;
+  background-color: #fff;
+  background-image: url(https://satbetqa.s3.amazonaws.com/search_icon.png);
+  background-position: 18px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 50px;
+  text-overflow: ellipsis;
+}
+
+button.dropbtn {
+  background-color: transparent !important;
+}
+
+.casino_page_topsection button.dropbtn {
+  background-color: #f1cb58 !important;
+}
+
+button.dropbtn img {
+  padding-left: 8px;
+  vertical-align: middle;
+}
+
+.casino_page_topsection .search-container .casino_search_dropdown_wrap {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content.show {
+  display: block;
+}
+
+.casino_page_topsection .search-container .casino_search_dropdown_wrap .dropdown-content {
+  width: 200px;
+  max-height: 300px;
+  z-index: 999;
+}
+
+.dropdown-content a {
+  color: #000;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover,
+.dropdown-content a:focus {
+  background-color: #ddd;
+}
+
+/* all-minify: margin-top 30px; strip stacks above page content below the cream block */
+.casinogame_menu {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  margin-top: 30px;
+  overflow-x: auto;
+  overflow-y: visible;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 3;
+}
+
+.casinogame_menu::-webkit-scrollbar {
+  display: none;
+}
+
+.casinogame_menu ul {
+  display: flex;
+  flex: 0 0 auto;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.casinogame_menu ul li {
+  margin-right: 10px;
+  padding-top: 10px;
+  flex-shrink: 0;
+  transition: 0.3s;
+}
+
+.casinogame_menu ul li:last-child {
+  margin-right: 0;
+}
+
+.casinogame_menu ul li:hover,
+.casinogame_menu ul li.active.providerFilter.casino-menu_icon_section1 {
+  transform: translateY(-10px);
+  transition: 0.3s;
+  padding-top: 10px;
+}
+
+.casino-menu_icon_section1 {
+  position: relative;
+}
+
+.casinogame_menu ul li a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.casinogame_menu ul li a .casino_menu_icon1 img {
+  pointer-events: none;
+}
+
+img.menu_align {
+  width: 136px;
+  height: auto;
+  display: block;
+}
+
+.casino_menu_icon1 {
+  position: relative;
+  display: inline-block;
+  line-height: 0;
+}
+
+.casino_menu_icon1 p {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+  margin: 0;
+  padding: 0 6px;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.2;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.75);
+  pointer-events: none;
+}
+
+.download-area-bottom .single-download-box .boxed-btn {
+  transform: none;
+  width: 100%;
+  background: transparent;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.single-download-box {
+  border: none !important;
+}
+
+.grid-container .st_featured_thumb {
+  position: relative;
+  isolation: isolate;
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.grid-container .st_featured_thumb .casino-tile-figure {
+  position: relative;
+  margin: 0;
+  display: block;
+  line-height: 0;
+}
+
+/* Kill sub-pixel gap under the image (common figure/img inline-layout issue) */
+.grid-container .st_featured_thumb .casino-tile-figure .casino-game-thumb {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/*
+ * casino-games.html: <figure><img /><div class="login-overlay">…</div></figure>
+ * Legacy all-minify: full-width bar, absolute; we pin to top and keep provider badge above it (z-index).
+ */
+.grid-container .st_featured_thumb .casino-tile-figure .login-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: auto;
+  z-index: 5;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #000;
+  color: #ebba48;
+  font-family: 'DM Sans', 'Poppins', sans-serif;
+  font-size: clamp(10px, 2.5vw, 1.1em);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.06em;
+  text-align: center;
+  text-transform: uppercase;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.28s ease, background-color 0.2s ease, color 0.2s ease;
+}
+
+.grid-container .st_featured_thumb .casino-tile-figure--with-provider .login-overlay {
+  padding-right: 52px;
+}
+
+/* Legacy: .single-download-box:hover .login-overlay — show bar when hovering thumb or title row */
+.grid-container .single-download-box:hover .login-overlay,
+.grid-container .st_featured_thumb:hover .casino-tile-figure .login-overlay,
+.grid-container .st_featured_thumb:focus-visible .casino-tile-figure .login-overlay {
+  opacity: 1;
+  background: #0a0a0a;
+  color: #f5cf6a;
+}
+
+@media (hover: none) {
+  .grid-container .st_featured_thumb .casino-tile-figure .login-overlay {
+    opacity: 0.9;
+  }
+}
+
+/* Extra clearance when category strip overlaps the white area (desktop reference layout) */
+@media (min-width: 768px) {
+  .casino-lobby-with-category-strip .section-header.g-header {
+    margin-top: 72px;
+  }
+}
+
+.casino-game-thumb {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.grid-container .st_featured_thumb .casino-provider-badge {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  max-width: 56px;
+  max-height: 22px;
+  object-fit: contain;
+  z-index: 6;
+  pointer-events: none;
+}
+
+.casino-grid-sentinel {
+  height: 1px;
+}
+
+.casino-games-empty {
+  text-align: center;
+  color: #666;
+  padding: 32px 16px;
+}
+
+@media screen and (max-width: 991px) {
+  .casino_page_topsection .search-container button.dropbtn img {
+    padding-left: 2px;
+  }
+
+  .search-container {
+    width: 80%;
+  }
+
+  .grid-container {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .casino_page_topsection {
+    padding: 15px 0 0;
+    min-height: 0;
+    height: auto;
+  }
+
+  .casino_page_topsection .search-container button.search-icon {
+    display: block;
+    background: white;
+    padding-right: 12px;
+    padding-bottom: 4px;
+    border: none;
+    cursor: pointer;
+    margin: 0;
+  }
+
+  .casino_page_topsection .search-container button.search-icon img {
+    display: block;
+    width: 20px;
+    height: 20px;
+  }
+
+  input.search-input.casino_Search {
+    background-image: none;
+    background-position: 0;
+    padding: 0 20px;
+  }
+
+  .casino_page_topsection .search-container .search-button {
+    display: none;
+  }
+
+  .search-container {
+    width: 95%;
+    margin: 0 15px;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .container-fluid.casino_top {
+    padding: 0;
+  }
+
+  .casinogame_menu {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+
+  .section-header.g-header .games-title {
+    font-size: 18px;
+  }
+
+  .no_of_games p {
+    font-size: 13px;
+  }
+
+  .section-header.g-header {
+    margin-top: 30px;
+  }
+
+  .casinogame_menu ul li:last-child {
+    margin-right: 15px;
+  }
+
+  .download-area-bottom .grid-container {
+    gap: 10px;
+  }
+
+  .download-area-bottom .single-download-box .boxed-btn {
+    padding: 6px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .casino_page_topsection {
+    height: 125px;
+    min-height: 0;
+    padding: 8px 0 0;
+    box-sizing: border-box;
+  }
+
+  .casinogame_menu {
+    margin-top: 20px;
+  }
+
+  .casino_page_topsection .search-container button.dropbtn {
+    font-size: 11px;
+  }
+
+  img.menu_align {
+    width: 120px;
+  }
+
+  .casino_menu_icon1 p {
+    bottom: 8px;
+    font-size: 11px;
+  }
+
+  .section-header.g-header {
+    margin-top: 25px;
+  }
+
+  .search-container {
+    width: 97%;
+    margin: 0 6px;
+  }
+
+  input.search-input.casino_Search {
+    padding: 0 4px;
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  input.search-input.casino_Search {
+    padding: 0;
+    font-size: 12px;
+  }
+
+  .casino_page_topsection .search-container button.dropbtn img {
+    padding-left: 3px;
+  }
+
+  .casino_page_topsection .search-container button.search-icon {
+    width: 28px;
+    padding-right: 9px;
+    padding-left: 0;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
