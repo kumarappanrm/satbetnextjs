@@ -1,7 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Static HTML export → `out/` folder (use `npx serve out`, not `next start`)
-  output: 'export',
   trailingSlash: false,
   images: {
     unoptimized: true,
